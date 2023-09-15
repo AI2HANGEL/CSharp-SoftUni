@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\bin\Debug\net6.0\journey.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\bin\Debug\net6.0\journey.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\bin\Debug\net6.0\journey.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\bin\Debug\net6.0\journey.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\bin\Debug\net6.0\journey.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\obj\Debug\net6.0\journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\obj\Debug\net6.0\journey.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\obj\Debug\net6.0\journey.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\obj\Debug\net6.0\journey.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\obj\Debug\net6.0\journey.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\obj\Debug\net6.0\refint\journey.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\obj\Debug\net6.0\journey.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\obj\Debug\net6.0\journey.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\journey\obj\Debug\net6.0\ref\journey.dll

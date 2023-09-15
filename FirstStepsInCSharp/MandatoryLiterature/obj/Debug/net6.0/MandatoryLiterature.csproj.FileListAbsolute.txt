@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\bin\Debug\net6.0\MandatoryLiterature.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\bin\Debug\net6.0\MandatoryLiterature.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\bin\Debug\net6.0\MandatoryLiterature.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\bin\Debug\net6.0\MandatoryLiterature.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\bin\Debug\net6.0\MandatoryLiterature.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\obj\Debug\net6.0\refint\MandatoryLiterature.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\MandatoryLiterature\obj\Debug\net6.0\ref\MandatoryLiterature.dll

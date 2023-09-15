@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\bin\Debug\net6.0\InchestoCentimeters.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\bin\Debug\net6.0\InchestoCentimeters.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\bin\Debug\net6.0\InchestoCentimeters.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\bin\Debug\net6.0\InchestoCentimeters.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\bin\Debug\net6.0\InchestoCentimeters.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\obj\Debug\net6.0\InchestoCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\obj\Debug\net6.0\InchestoCentimeters.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\obj\Debug\net6.0\InchestoCentimeters.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\obj\Debug\net6.0\InchestoCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\obj\Debug\net6.0\InchestoCentimeters.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\obj\Debug\net6.0\refint\InchestoCentimeters.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\obj\Debug\net6.0\InchestoCentimeters.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\obj\Debug\net6.0\InchestoCentimeters.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\InchestoCentimeters\obj\Debug\net6.0\ref\InchestoCentimeters.dll
