@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\bin\Debug\net6.0\Aquarium.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\bin\Debug\net6.0\Aquarium.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\bin\Debug\net6.0\Aquarium.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\bin\Debug\net6.0\Aquarium.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\bin\Debug\net6.0\Aquarium.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\obj\Debug\net6.0\Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\obj\Debug\net6.0\Aquarium.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\obj\Debug\net6.0\Aquarium.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\obj\Debug\net6.0\Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\obj\Debug\net6.0\Aquarium.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\obj\Debug\net6.0\refint\Aquarium.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\obj\Debug\net6.0\Aquarium.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\obj\Debug\net6.0\Aquarium.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Aquarium\obj\Debug\net6.0\ref\Aquarium.dll
