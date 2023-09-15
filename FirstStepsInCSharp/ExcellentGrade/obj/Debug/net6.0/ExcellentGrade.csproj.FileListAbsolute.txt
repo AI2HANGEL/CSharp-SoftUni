@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\bin\Debug\net6.0\ExcellentGrade.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\bin\Debug\net6.0\ExcellentGrade.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\bin\Debug\net6.0\ExcellentGrade.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\bin\Debug\net6.0\ExcellentGrade.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\bin\Debug\net6.0\ExcellentGrade.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\obj\Debug\net6.0\refint\ExcellentGrade.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\ExcellentGrade\obj\Debug\net6.0\ref\ExcellentGrade.dll
