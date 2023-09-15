@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\bin\Debug\net6.0\Redecorating.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\bin\Debug\net6.0\Redecorating.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\bin\Debug\net6.0\Redecorating.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\bin\Debug\net6.0\Redecorating.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\bin\Debug\net6.0\Redecorating.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\obj\Debug\net6.0\Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\obj\Debug\net6.0\Redecorating.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\obj\Debug\net6.0\Redecorating.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\obj\Debug\net6.0\Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\obj\Debug\net6.0\Redecorating.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\obj\Debug\net6.0\refint\Redecorating.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\obj\Debug\net6.0\Redecorating.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\obj\Debug\net6.0\Redecorating.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Redecorating\obj\Debug\net6.0\ref\Redecorating.dll

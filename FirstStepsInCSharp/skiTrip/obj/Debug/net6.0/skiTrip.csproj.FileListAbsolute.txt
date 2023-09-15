@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\bin\Debug\net6.0\skiTrip.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\bin\Debug\net6.0\skiTrip.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\bin\Debug\net6.0\skiTrip.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\bin\Debug\net6.0\skiTrip.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\bin\Debug\net6.0\skiTrip.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\obj\Debug\net6.0\skiTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\obj\Debug\net6.0\skiTrip.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\obj\Debug\net6.0\skiTrip.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\obj\Debug\net6.0\skiTrip.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\obj\Debug\net6.0\skiTrip.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\obj\Debug\net6.0\refint\skiTrip.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\obj\Debug\net6.0\skiTrip.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\obj\Debug\net6.0\skiTrip.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\skiTrip\obj\Debug\net6.0\ref\skiTrip.dll

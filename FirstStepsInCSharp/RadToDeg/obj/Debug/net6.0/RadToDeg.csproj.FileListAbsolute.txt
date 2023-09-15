@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\obj\Debug\net6.0\RadToDeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\obj\Debug\net6.0\RadToDeg.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\obj\Debug\net6.0\RadToDeg.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\obj\Debug\net6.0\RadToDeg.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\bin\Debug\net6.0\RadToDeg.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\bin\Debug\net6.0\RadToDeg.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\bin\Debug\net6.0\RadToDeg.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\bin\Debug\net6.0\RadToDeg.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\bin\Debug\net6.0\RadToDeg.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\obj\Debug\net6.0\RadToDeg.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\obj\Debug\net6.0\refint\RadToDeg.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\obj\Debug\net6.0\RadToDeg.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\obj\Debug\net6.0\RadToDeg.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\RadToDeg\obj\Debug\net6.0\ref\RadToDeg.dll
