@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\bin\Debug\net6.0\HelloSoftUni.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\bin\Debug\net6.0\HelloSoftUni.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\bin\Debug\net6.0\HelloSoftUni.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\bin\Debug\net6.0\HelloSoftUni.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\bin\Debug\net6.0\HelloSoftUni.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\obj\Debug\net6.0\HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\obj\Debug\net6.0\HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\obj\Debug\net6.0\HelloSoftUni.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\obj\Debug\net6.0\HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\obj\Debug\net6.0\HelloSoftUni.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\obj\Debug\net6.0\refint\HelloSoftUni.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\obj\Debug\net6.0\HelloSoftUni.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\obj\Debug\net6.0\HelloSoftUni.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FirstHelloWorldapp\obj\Debug\net6.0\ref\HelloSoftUni.dll
