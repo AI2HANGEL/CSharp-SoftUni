@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\bin\Debug\net6.0\SquareArea.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\bin\Debug\net6.0\SquareArea.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\bin\Debug\net6.0\SquareArea.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\bin\Debug\net6.0\SquareArea.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\bin\Debug\net6.0\SquareArea.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\obj\Debug\net6.0\SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\obj\Debug\net6.0\SquareArea.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\obj\Debug\net6.0\SquareArea.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\obj\Debug\net6.0\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\obj\Debug\net6.0\SquareArea.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\obj\Debug\net6.0\refint\SquareArea.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\obj\Debug\net6.0\SquareArea.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\obj\Debug\net6.0\SquareArea.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SquareArea\obj\Debug\net6.0\ref\SquareArea.dll

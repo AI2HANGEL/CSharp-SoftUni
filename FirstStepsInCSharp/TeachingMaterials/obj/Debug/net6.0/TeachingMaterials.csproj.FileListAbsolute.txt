@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\bin\Debug\net6.0\TeachingMaterials.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\bin\Debug\net6.0\TeachingMaterials.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\bin\Debug\net6.0\TeachingMaterials.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\bin\Debug\net6.0\TeachingMaterials.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\bin\Debug\net6.0\TeachingMaterials.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\obj\Debug\net6.0\refint\TeachingMaterials.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TeachingMaterials\obj\Debug\net6.0\ref\TeachingMaterials.dll

@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\bin\Debug\net6.0\SummerCalculation.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\bin\Debug\net6.0\SummerCalculation.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\bin\Debug\net6.0\SummerCalculation.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\bin\Debug\net6.0\SummerCalculation.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\bin\Debug\net6.0\SummerCalculation.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\obj\Debug\net6.0\SummerCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\obj\Debug\net6.0\SummerCalculation.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\obj\Debug\net6.0\SummerCalculation.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\obj\Debug\net6.0\SummerCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\obj\Debug\net6.0\SummerCalculation.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\obj\Debug\net6.0\refint\SummerCalculation.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\obj\Debug\net6.0\SummerCalculation.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\obj\Debug\net6.0\SummerCalculation.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\SummerCalculation\obj\Debug\net6.0\ref\SummerCalculation.dll
