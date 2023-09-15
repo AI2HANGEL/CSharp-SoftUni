@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\bin\Debug\net6.0\NumberName.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\bin\Debug\net6.0\NumberName.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\bin\Debug\net6.0\NumberName.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\bin\Debug\net6.0\NumberName.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\bin\Debug\net6.0\NumberName.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\obj\Debug\net6.0\NumberName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\obj\Debug\net6.0\NumberName.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\obj\Debug\net6.0\NumberName.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\obj\Debug\net6.0\NumberName.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\obj\Debug\net6.0\NumberName.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\obj\Debug\net6.0\refint\NumberName.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\obj\Debug\net6.0\NumberName.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\obj\Debug\net6.0\NumberName.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\NumberName\obj\Debug\net6.0\ref\NumberName.dll

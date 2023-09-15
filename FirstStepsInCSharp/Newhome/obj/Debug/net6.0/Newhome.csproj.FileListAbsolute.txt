@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\bin\Debug\net6.0\Newhome.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\bin\Debug\net6.0\Newhome.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\bin\Debug\net6.0\Newhome.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\bin\Debug\net6.0\Newhome.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\bin\Debug\net6.0\Newhome.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\obj\Debug\net6.0\Newhome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\obj\Debug\net6.0\Newhome.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\obj\Debug\net6.0\Newhome.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\obj\Debug\net6.0\Newhome.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\obj\Debug\net6.0\Newhome.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\obj\Debug\net6.0\refint\Newhome.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\obj\Debug\net6.0\Newhome.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\obj\Debug\net6.0\Newhome.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Newhome\obj\Debug\net6.0\ref\Newhome.dll
