@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\bin\Debug\net6.0\Cinema.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\bin\Debug\net6.0\Cinema.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\bin\Debug\net6.0\Cinema.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\bin\Debug\net6.0\Cinema.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\obj\Debug\net6.0\Cinema.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\obj\Debug\net6.0\refint\Cinema.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\obj\Debug\net6.0\Cinema.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\Cinema\obj\Debug\net6.0\ref\Cinema.dll

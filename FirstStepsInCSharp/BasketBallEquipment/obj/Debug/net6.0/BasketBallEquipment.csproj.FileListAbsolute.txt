@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\bin\Debug\net6.0\BasketBallEquipment.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\bin\Debug\net6.0\BasketBallEquipment.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\bin\Debug\net6.0\BasketBallEquipment.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\bin\Debug\net6.0\BasketBallEquipment.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\bin\Debug\net6.0\BasketBallEquipment.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\obj\Debug\net6.0\refint\BasketBallEquipment.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\BasketBallEquipment\obj\Debug\net6.0\ref\BasketBallEquipment.dll
