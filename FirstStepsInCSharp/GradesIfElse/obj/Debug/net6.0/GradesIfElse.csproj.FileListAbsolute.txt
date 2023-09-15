@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\bin\Debug\net6.0\GradesIfElse.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\bin\Debug\net6.0\GradesIfElse.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\bin\Debug\net6.0\GradesIfElse.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\bin\Debug\net6.0\GradesIfElse.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\bin\Debug\net6.0\GradesIfElse.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\obj\Debug\net6.0\GradesIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\obj\Debug\net6.0\GradesIfElse.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\obj\Debug\net6.0\GradesIfElse.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\obj\Debug\net6.0\GradesIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\obj\Debug\net6.0\GradesIfElse.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\obj\Debug\net6.0\refint\GradesIfElse.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\obj\Debug\net6.0\GradesIfElse.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\obj\Debug\net6.0\GradesIfElse.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\GradesIfElse\obj\Debug\net6.0\ref\GradesIfElse.dll
