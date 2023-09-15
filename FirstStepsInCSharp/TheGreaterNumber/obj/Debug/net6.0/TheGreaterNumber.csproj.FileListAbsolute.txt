@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\bin\Debug\net6.0\TheGreaterNumber.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\bin\Debug\net6.0\TheGreaterNumber.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\bin\Debug\net6.0\TheGreaterNumber.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\bin\Debug\net6.0\TheGreaterNumber.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\bin\Debug\net6.0\TheGreaterNumber.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\obj\Debug\net6.0\refint\TheGreaterNumber.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TheGreaterNumber\obj\Debug\net6.0\ref\TheGreaterNumber.dll

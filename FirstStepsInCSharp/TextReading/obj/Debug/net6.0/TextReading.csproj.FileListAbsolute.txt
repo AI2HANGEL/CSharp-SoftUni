@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\bin\Debug\net6.0\TextReading.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\bin\Debug\net6.0\TextReading.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\bin\Debug\net6.0\TextReading.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\bin\Debug\net6.0\TextReading.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\bin\Debug\net6.0\TextReading.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\obj\Debug\net6.0\TextReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\obj\Debug\net6.0\TextReading.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\obj\Debug\net6.0\TextReading.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\obj\Debug\net6.0\TextReading.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\obj\Debug\net6.0\TextReading.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\obj\Debug\net6.0\refint\TextReading.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\obj\Debug\net6.0\TextReading.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\obj\Debug\net6.0\TextReading.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\TextReading\obj\Debug\net6.0\ref\TextReading.dll

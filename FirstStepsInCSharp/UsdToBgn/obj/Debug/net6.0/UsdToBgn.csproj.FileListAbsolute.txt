@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\bin\Debug\net6.0\UsdToBgn.exe
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\bin\Debug\net6.0\UsdToBgn.deps.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\bin\Debug\net6.0\UsdToBgn.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\bin\Debug\net6.0\UsdToBgn.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\bin\Debug\net6.0\UsdToBgn.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\obj\Debug\net6.0\UsdToBgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\obj\Debug\net6.0\UsdToBgn.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\obj\Debug\net6.0\UsdToBgn.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\obj\Debug\net6.0\UsdToBgn.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\obj\Debug\net6.0\UsdToBgn.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\obj\Debug\net6.0\refint\UsdToBgn.dll
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\obj\Debug\net6.0\UsdToBgn.pdb
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\obj\Debug\net6.0\UsdToBgn.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\UsdToBgn\obj\Debug\net6.0\ref\UsdToBgn.dll
