@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PKasTwPbVKpcAFMIgmTRcyKse3x8Q7kO0h4LW/HxQkRKh+9zVJjCz+NG0vrTYNNB9+MwZyDvxDyeEYcYAZ6DCA==",
+  "dgSpecHash": "iH6qYbWCtkxVu8xlBREUM8xFUnu4Zk82XoIAkmA3NNyLKXJ51Wb1msYii2yOj+t+O8lAO9B9n7B0NoU+GsSvxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\SummerCalculation\\SummerCalculation.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\SummerCalculation\\SummerCalculation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

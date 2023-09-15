@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Ae1IqrnsqacxFzypjNjm58IKmXWqZkyb45IV9GZW85AbqQqXuRqFIyDPD25Fdpgh338Y4JRS9IwDmd2JPehCg==",
+  "dgSpecHash": "7iLyQuuQHeK6MW/42kx2pZAIlygMQh+kK9tsitEHegSIP/IIg/s4woTxUy3l75xNQApq7AxrbxyIPpqDGlj/Xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\SquareArea\\SquareArea.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\SquareArea\\SquareArea.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

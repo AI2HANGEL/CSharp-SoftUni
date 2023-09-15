@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TF4xsieZBCNkbZ8syr4iea1H64DMtT/WMklpJrnHLQv4mwS0/Ln/+zRf+VPTQehOLK45v5ueWTZKA8pgLuj2iQ==",
+  "dgSpecHash": "ZD3hltEX5In7Fp4NCdtaIRvI/LeLE/50PsCEf/X+PrLp+0Zcymf5Wp/UahADMtti54Yf6pOwOUrdae/kqKeV0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\TeachingMaterials\\TeachingMaterials.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\TeachingMaterials\\TeachingMaterials.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
