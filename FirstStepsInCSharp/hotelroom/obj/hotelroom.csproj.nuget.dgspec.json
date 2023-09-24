@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\hotelroom\\hotelroom.csproj": {}
+    "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\hotelroom\\hotelroom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\hotelroom\\hotelroom.csproj": {
+    "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\hotelroom\\hotelroom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\hotelroom\\hotelroom.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\hotelroom\\hotelroom.csproj",
         "projectName": "hotelroom",
-        "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\hotelroom\\hotelroom.csproj",
+        "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\hotelroom\\hotelroom.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\hotelroom\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\hotelroom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

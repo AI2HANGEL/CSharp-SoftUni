@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l+CBGeA/TeGvHzqY5FfI0d7Gpx8+3XnJVW+rnTbaSs7RYtsRBfVkc+YfQd+RewonNGRG8rX0wLD++ZRtRbRy0Q==",
+  "dgSpecHash": "fwS3iolqSx5BnrOUPGVR5PU89Tqvxna6UkOJ+/kw7ayHVeNt8AgJ5FrI0gslq3a0juckrLc3OPSG2ST7U1L/ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\FoodDelivery\\FoodDelivery.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\FoodDelivery\\FoodDelivery.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

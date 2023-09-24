@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qly87lX/IljxqTyIjAuBolZ+87A79ImZ/KJXcWhXTrumJReBNPkgoMH6D/LJ/SA1Ht3amx71TaG3yfPxTjraFA==",
+  "dgSpecHash": "Xo5ll5MuTqd0X2J9PNheOoVWfM1Mh+TaZGSAw/pgEIDwwfJ2vT+vpNYIwOZ0syHFvvwSXYrzWQgPr02inOG04w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\Aquarium\\Aquarium.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\Aquarium\\Aquarium.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

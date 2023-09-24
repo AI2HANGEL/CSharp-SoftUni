@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iBYFZ/GHS1pNoHn8SQxRuohVN1agNSXePkHZx+R00wRHpHRo0TbXCJQOBeKtWtJqZQfNqownbkmZeU3BUUIvLA==",
+  "dgSpecHash": "rD9jwSva6yL5vioZz2NL41GV24/ER8G+ZLHNZ/Yya9+QrVjeFxJ4jsvUoPOJm9O2xfy0g+KYl5gO2bjbm9sMcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\ExcellentGrade\\ExcellentGrade.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\ExcellentGrade\\ExcellentGrade.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

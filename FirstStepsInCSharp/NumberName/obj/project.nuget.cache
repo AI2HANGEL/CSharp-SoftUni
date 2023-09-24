@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KG1jx7On9U2zKjIx+eawxfydBVfKkwy1BFSRMKaSSmLuXqI7bxdLNkrNnrbhHXSAB1+e42C4gkA8EEz/hsVF8g==",
+  "dgSpecHash": "db+eJDCfoskreA1CzG5w+4ibkJu2jEhUPg+qt8fo4trDyeyyrYUiiZQzZf2NAyOn/Hdod5RqyBpnW7muIH42Ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\NumberName\\NumberName.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\NumberName\\NumberName.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

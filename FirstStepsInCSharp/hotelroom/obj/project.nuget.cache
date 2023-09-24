@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r2PVWdU5W3HezuW+silqj22tNrnJOymnDBtYdtrVc7gmw1dwg9eGQWvKwwh8A7mzSUvAHxYJ0YNSZqF2UHgL5Q==",
+  "dgSpecHash": "9ZT5Xuc6f43YP9kigsYpisUS5zT5mXDs/xkwJvqbdRP4jt1Zb4+Z1NrE+TPb0nYqpa1pLbqDagesdkxBmLuLoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\hotelroom\\hotelroom.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\hotelroom\\hotelroom.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\GradesIfElse\\GradesIfElse.csproj": {}
+    "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\GradesIfElse\\GradesIfElse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\GradesIfElse\\GradesIfElse.csproj": {
+    "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\GradesIfElse\\GradesIfElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\GradesIfElse\\GradesIfElse.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\GradesIfElse\\GradesIfElse.csproj",
         "projectName": "GradesIfElse",
-        "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\GradesIfElse\\GradesIfElse.csproj",
+        "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\GradesIfElse\\GradesIfElse.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\GradesIfElse\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\GradesIfElse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

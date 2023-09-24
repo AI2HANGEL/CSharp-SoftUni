@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\Redecorating\\Redecorating.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\Redecorating\\Redecorating.csproj",
       "projectName": "Redecorating",
-      "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\Redecorating\\Redecorating.csproj",
+      "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\Redecorating\\Redecorating.csproj",
       "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\Redecorating\\obj\\",
+      "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\Redecorating\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

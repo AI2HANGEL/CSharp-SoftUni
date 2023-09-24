@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WUPR6xhBJWPFHUspzTKwLMsrFuE+GSsVNhi8Mc6SmrTaQHXnbRufKdejX0SLdeMYVbDp53EFTRGcFV7TaGIwdA==",
+  "dgSpecHash": "ZsTp3YVf8aV4/ZYJcnlY8weWvJdDoln7XPT8BO7l03kQdLvBbQ56c/eDq1LP1G/EbXWeqSELBESyeNoMsW0LUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\RadToDeg\\RadToDeg.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\RadToDeg\\RadToDeg.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

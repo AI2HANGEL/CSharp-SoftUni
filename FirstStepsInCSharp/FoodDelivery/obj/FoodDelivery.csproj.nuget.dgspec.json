@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\FoodDelivery\\FoodDelivery.csproj": {}
+    "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\FoodDelivery\\FoodDelivery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\FoodDelivery\\FoodDelivery.csproj": {
+    "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\FoodDelivery\\FoodDelivery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\FoodDelivery\\FoodDelivery.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\FoodDelivery\\FoodDelivery.csproj",
         "projectName": "FoodDelivery",
-        "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\FoodDelivery\\FoodDelivery.csproj",
+        "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\FoodDelivery\\FoodDelivery.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\FoodDelivery\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\FoodDelivery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

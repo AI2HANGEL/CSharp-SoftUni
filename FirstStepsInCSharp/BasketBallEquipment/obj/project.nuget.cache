@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vA7Py+7Y/V5AlBwA8NsBjLaBIqxlktongu1ne2MLvDSV4GP+zP0qGI5UGt1hSYYG3y7ZfQdMd+qSfLpsK3uNqg==",
+  "dgSpecHash": "ulg9B0dXYuZ1U/nMBTXx65b93s6fM8Zdv4jPvJzySxBd2rTaXV59G7QeZ5jjGvCiolfIm6unizvrhpgDa8zwrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\BasketBallEquipment\\BasketBallEquipment.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\BasketBallEquipment\\BasketBallEquipment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

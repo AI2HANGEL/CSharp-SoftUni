@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\NumberName\\NumberName.csproj": {}
+    "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\NumberName\\NumberName.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\NumberName\\NumberName.csproj": {
+    "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\NumberName\\NumberName.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\NumberName\\NumberName.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\NumberName\\NumberName.csproj",
         "projectName": "NumberName",
-        "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\NumberName\\NumberName.csproj",
+        "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\NumberName\\NumberName.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\NumberName\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\NumberName\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

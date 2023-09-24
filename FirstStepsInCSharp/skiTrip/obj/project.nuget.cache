@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kOcF847Q1jvUjFWWhXRyD6gAsLFVR4T6RVcUmfaGtIoRZiE+i44DmhtCOmSM3IwP6ybiKex4vULffzICKJXsAA==",
+  "dgSpecHash": "grTVrDDERshGJZWdVm9uu8/geEjJKPTm51CBOMlH1Uu2EZeT5LhwHQnINtovZ/ZPj3hx3DQS8TVyAHoCYDjCAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\skiTrip\\skiTrip.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\skiTrip\\skiTrip.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

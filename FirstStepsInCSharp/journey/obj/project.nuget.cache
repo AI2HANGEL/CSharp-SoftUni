@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tkqPEr/mP+sSrMvkk3hbP1wGno/X3TEpU5v2EAg5Mv5OKiu6iEDCSA+5E4gm+0jb8X6fz/14dacibmbYdGEBpw==",
+  "dgSpecHash": "3S2h6DynI66+XGx/zEfQA6UiO7GMFpRX5KrzhG/D/sO3kjQMRWWoUb3hkbBJzdcSRpKyXgKB9EvHY4MjadJgHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\journey\\journey.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\journey\\journey.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\BasketBallEquipment\\BasketBallEquipment.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\BasketBallEquipment\\BasketBallEquipment.csproj",
       "projectName": "BasketBallEquipment",
-      "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\BasketBallEquipment\\BasketBallEquipment.csproj",
+      "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\BasketBallEquipment\\BasketBallEquipment.csproj",
       "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\BasketBallEquipment\\obj\\",
+      "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\BasketBallEquipment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

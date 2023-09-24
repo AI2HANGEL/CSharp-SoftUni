@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2o0bUWTR/PV41BKjdyjS0uc6CAmmT0gYolpJeFuT6f+3UKL/mficHtaL/cnoltJUXprvHPZtc3JnLoVeuWa9Zw==",
+  "dgSpecHash": "8LT/EPCnDvpOgapb+9zE+jQ3wvXkarp7YmUDN/YyToAYGNaCQqZ7D2oDgQz5akK4hBSYuZxXRnfBcfW1DA8jrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\EvenOrOdd\\EvenOrOdd.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\EvenOrOdd\\EvenOrOdd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

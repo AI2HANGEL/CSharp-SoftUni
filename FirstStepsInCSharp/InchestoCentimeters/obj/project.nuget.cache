@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6n6awmqYCZ9lfnNRv2gpTk7vUZu+qp6eN08yNQEVqJa1FqRFFTE4UeQjniDyxIEzC7GyL1eoqn2Em/63MtcYVw==",
+  "dgSpecHash": "Oo1f6HbHSFMS8mwETTb0gPIx41NWLGjG+JCFdAbHyQtSv0ykuhPbE1E69iZS2q4pFl1IS32ZALgEThB3Hqt0MA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\InchestoCentimeters\\InchestoCentimeters.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\InchestoCentimeters\\InchestoCentimeters.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JBaIekglNRvmHkg2bkLMhtLytApxzXiH6PCs75tzM3SjG/985YipsZ3Ilit8iHkSr4J+4qe+QgBh7Pi+EJ6rLA==",
+  "dgSpecHash": "8vOVjCyz/zPiKUd7jcgIeyveva7pdocYM/2BohkG5TpumSyzL/IqlBsD172gJ1L/PgWVSUp1qc9YiXHTlB+wFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\FishingBoat\\FishingBoat.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\FishingBoat\\FishingBoat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

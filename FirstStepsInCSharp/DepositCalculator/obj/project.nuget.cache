@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lgw9ildlZvX9I138imAnqBYVzl+A+kY+1Sv+qZ/KyvT7ojjl4QWCHmyScoIMJOgg4Og3T1qe0CrxheyzSS5aJA==",
+  "dgSpecHash": "fltu+mK7vBeWfnb/n6Ql+EHEteg0XQJ2gK9YH1Rm0tvm65ZsQMdlll0BI1NlsQzKoLrANZwhnYR90v6C/x78dA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\DepositCalculator\\DepositCalculator.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\DepositCalculator\\DepositCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

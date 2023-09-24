@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k8nU0m3piUr7scIMAR53dlemRNamTvvxHPTNyPrJrcGGxc0nwRWIu+Ax8Qy8QE1s8iONKP7mRej34SSHsfgkJA==",
+  "dgSpecHash": "9YMYHP4EVk0QleFHTO3p1JP+e3CXvkcsty9U+Bjqp81qQdPCJHnB09mzMvgzTPZlSizeVP4N1OmjZE2c02xgCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\Cinema\\Cinema.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\Cinema\\Cinema.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

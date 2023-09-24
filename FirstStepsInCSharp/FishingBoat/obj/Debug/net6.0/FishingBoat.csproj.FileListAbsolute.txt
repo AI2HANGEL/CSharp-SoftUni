@@ -12,3 +12,17 @@ C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FishingBoat\obj\Debug\
 C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FishingBoat\obj\Debug\net6.0\FishingBoat.pdb
 C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FishingBoat\obj\Debug\net6.0\FishingBoat.genruntimeconfig.cache
 C:\Users\Daniel Prandzhev\source\repos\FirstHelloWorldapp\FishingBoat\obj\Debug\net6.0\ref\FishingBoat.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\bin\Debug\net6.0\FishingBoat.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\bin\Debug\net6.0\FishingBoat.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\bin\Debug\net6.0\FishingBoat.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\bin\Debug\net6.0\FishingBoat.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\bin\Debug\net6.0\FishingBoat.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\obj\Debug\net6.0\FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\obj\Debug\net6.0\FishingBoat.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\obj\Debug\net6.0\FishingBoat.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\obj\Debug\net6.0\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\obj\Debug\net6.0\FishingBoat.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\obj\Debug\net6.0\refint\FishingBoat.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\obj\Debug\net6.0\FishingBoat.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\obj\Debug\net6.0\FishingBoat.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\FirstStepsInCSharp\FishingBoat\obj\Debug\net6.0\ref\FishingBoat.dll

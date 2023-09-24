@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ni40jBn0u630TFJpCkY4fbwscR0IabvZLdZzYp10r8zlnkFlC17sx6UfuyegzafoBxLgsA4NogmbAOhVnozQFA==",
+  "dgSpecHash": "OHWIRzElT90D+qbN0YEXVGlICyFg+wXVkCEsH4y22WHph2BMqhypuc0xtS3oEhDUwIeikzX5bAC5zLWe52of/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\AnimalTypes\\AnimalTypes.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\AnimalTypes\\AnimalTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

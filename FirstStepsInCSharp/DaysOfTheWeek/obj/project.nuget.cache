@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jf2ba9A8P9Z00w40pSZ6eQ3lPUk/Qx78cyEr76reqTD2JJDgmoWHRmWOVUP845Kv1CflZsvNbIS1pL4QmdT4fQ==",
+  "dgSpecHash": "uBj0Tppi9AW6W5OpHBYPgnwguJCkx+xdqbHTgN1UFNF4PsXJ+OqgMt/i8/EF5u4+rGdOeqHOXbWTjO2uBdVMiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\FirstHelloWorldapp\\DaysOfTheWeek\\DaysOfTheWeek.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\FirstStepsInCSharp\\DaysOfTheWeek\\DaysOfTheWeek.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

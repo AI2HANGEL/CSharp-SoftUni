@@ -1,23 +1,21 @@
-using System;
-
-namespace Aquarium
+﻿namespace Aquarium
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int length_cm = int.Parse(Console.ReadLine());
-            int width_cm = int.Parse(Console.ReadLine());
-            int height_cm = int.Parse(Console.ReadLine());
-            double percent_sand = double.Parse(Console.ReadLine());
+            int lenghtcm = int.Parse(Console.ReadLine());
+            int widthcm = int.Parse(Console.ReadLine());
+            int heightcm = int.Parse(Console.ReadLine());
+            double percentage = double.Parse(Console.ReadLine()) / 100;
 
-            double volume = length_cm * width_cm * height_cm;
-            double volume_in_lt = volume * 0.001;
-            double occupied_volume = percent_sand / 100;
-            double required_lt = volume_in_lt * (1 - occupied_volume);
+            double volumeliters = (lenghtcm * widthcm * heightcm) * 0.001;
 
-            // Format required_lt to two decimal places when printing
-            Console.WriteLine(required_lt.ToString("0.00"));
+            double requiredliters = volumeliters * (1 - percentage);
+
+            string formattedRequiredLiters = string.Format("{0:N2}", requiredliters);
+
+            Console.WriteLine(formattedRequiredLiters);
         }
     }
 }
