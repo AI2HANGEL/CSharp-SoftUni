@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\bin\Debug\net6.0\VacationSavings.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\bin\Debug\net6.0\VacationSavings.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\bin\Debug\net6.0\VacationSavings.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\bin\Debug\net6.0\VacationSavings.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\bin\Debug\net6.0\VacationSavings.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\obj\Debug\net6.0\VacationSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\obj\Debug\net6.0\VacationSavings.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\obj\Debug\net6.0\VacationSavings.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\obj\Debug\net6.0\VacationSavings.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\obj\Debug\net6.0\VacationSavings.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\obj\Debug\net6.0\refint\VacationSavings.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\obj\Debug\net6.0\VacationSavings.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\obj\Debug\net6.0\VacationSavings.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\VacationSavings\obj\Debug\net6.0\ref\VacationSavings.dll

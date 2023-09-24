@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\bin\Debug\net6.0\OldBooks.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\bin\Debug\net6.0\OldBooks.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\bin\Debug\net6.0\OldBooks.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\bin\Debug\net6.0\OldBooks.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\bin\Debug\net6.0\OldBooks.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\obj\Debug\net6.0\OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\obj\Debug\net6.0\OldBooks.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\obj\Debug\net6.0\OldBooks.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\obj\Debug\net6.0\OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\obj\Debug\net6.0\OldBooks.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\obj\Debug\net6.0\refint\OldBooks.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\obj\Debug\net6.0\OldBooks.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\obj\Debug\net6.0\OldBooks.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\OldBooks\obj\Debug\net6.0\ref\OldBooks.dll

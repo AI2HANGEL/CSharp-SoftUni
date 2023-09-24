@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\bin\Debug\net6.0\EvenPowersOfTwo.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\bin\Debug\net6.0\EvenPowersOfTwo.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\bin\Debug\net6.0\EvenPowersOfTwo.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\bin\Debug\net6.0\EvenPowersOfTwo.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\bin\Debug\net6.0\EvenPowersOfTwo.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\obj\Debug\net6.0\EvenPowersOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\obj\Debug\net6.0\EvenPowersOfTwo.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\obj\Debug\net6.0\EvenPowersOfTwo.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\obj\Debug\net6.0\EvenPowersOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\obj\Debug\net6.0\EvenPowersOfTwo.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\obj\Debug\net6.0\refint\EvenPowersOfTwo.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\obj\Debug\net6.0\EvenPowersOfTwo.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\obj\Debug\net6.0\EvenPowersOfTwo.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\EvenPowersOfTwo\obj\Debug\net6.0\ref\EvenPowersOfTwo.dll

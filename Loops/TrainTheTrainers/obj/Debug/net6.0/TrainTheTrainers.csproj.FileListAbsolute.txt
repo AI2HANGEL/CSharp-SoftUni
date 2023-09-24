@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\bin\Debug\net6.0\TrainTheTrainers.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\bin\Debug\net6.0\TrainTheTrainers.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\bin\Debug\net6.0\TrainTheTrainers.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\bin\Debug\net6.0\TrainTheTrainers.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\bin\Debug\net6.0\TrainTheTrainers.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\obj\Debug\net6.0\refint\TrainTheTrainers.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\TrainTheTrainers\obj\Debug\net6.0\ref\TrainTheTrainers.dll

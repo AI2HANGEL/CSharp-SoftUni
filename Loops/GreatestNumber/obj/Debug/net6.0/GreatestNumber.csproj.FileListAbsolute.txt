@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\bin\Debug\net6.0\GreatestNumber.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\bin\Debug\net6.0\GreatestNumber.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\bin\Debug\net6.0\GreatestNumber.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\bin\Debug\net6.0\GreatestNumber.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\bin\Debug\net6.0\GreatestNumber.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\obj\Debug\net6.0\GreatestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\obj\Debug\net6.0\GreatestNumber.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\obj\Debug\net6.0\GreatestNumber.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\obj\Debug\net6.0\GreatestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\obj\Debug\net6.0\GreatestNumber.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\obj\Debug\net6.0\refint\GreatestNumber.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\obj\Debug\net6.0\GreatestNumber.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\obj\Debug\net6.0\GreatestNumber.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\GreatestNumber\obj\Debug\net6.0\ref\GreatestNumber.dll

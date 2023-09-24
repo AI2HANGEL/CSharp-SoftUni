@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\bin\Debug\net6.0\1toNreversed.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\bin\Debug\net6.0\1toNreversed.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\bin\Debug\net6.0\1toNreversed.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\bin\Debug\net6.0\1toNreversed.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\bin\Debug\net6.0\1toNreversed.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\obj\Debug\net6.0\1toNreversed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\obj\Debug\net6.0\1toNreversed.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\obj\Debug\net6.0\1toNreversed.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\obj\Debug\net6.0\1toNreversed.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\obj\Debug\net6.0\1toNreversed.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\obj\Debug\net6.0\refint\1toNreversed.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\obj\Debug\net6.0\1toNreversed.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\obj\Debug\net6.0\1toNreversed.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNreversed\obj\Debug\net6.0\ref\1toNreversed.dll

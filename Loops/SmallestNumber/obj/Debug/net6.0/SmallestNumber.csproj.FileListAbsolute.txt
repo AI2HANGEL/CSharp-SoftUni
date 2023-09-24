@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\bin\Debug\net6.0\SmallestNumber.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\bin\Debug\net6.0\SmallestNumber.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\bin\Debug\net6.0\SmallestNumber.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\bin\Debug\net6.0\SmallestNumber.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\bin\Debug\net6.0\SmallestNumber.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\obj\Debug\net6.0\SmallestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\obj\Debug\net6.0\SmallestNumber.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\obj\Debug\net6.0\SmallestNumber.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\obj\Debug\net6.0\SmallestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\obj\Debug\net6.0\SmallestNumber.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\obj\Debug\net6.0\refint\SmallestNumber.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\obj\Debug\net6.0\SmallestNumber.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\obj\Debug\net6.0\SmallestNumber.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SmallestNumber\obj\Debug\net6.0\ref\SmallestNumber.dll

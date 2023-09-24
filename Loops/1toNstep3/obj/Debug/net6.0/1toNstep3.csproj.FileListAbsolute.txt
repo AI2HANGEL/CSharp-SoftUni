@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\bin\Debug\net6.0\1toNstep3.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\bin\Debug\net6.0\1toNstep3.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\bin\Debug\net6.0\1toNstep3.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\bin\Debug\net6.0\1toNstep3.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\bin\Debug\net6.0\1toNstep3.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\obj\Debug\net6.0\1toNstep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\obj\Debug\net6.0\1toNstep3.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\obj\Debug\net6.0\1toNstep3.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\obj\Debug\net6.0\1toNstep3.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\obj\Debug\net6.0\1toNstep3.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\obj\Debug\net6.0\refint\1toNstep3.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\obj\Debug\net6.0\1toNstep3.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\obj\Debug\net6.0\1toNstep3.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\1toNstep3\obj\Debug\net6.0\ref\1toNstep3.dll

@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\bin\Debug\net6.0\numberpyramid.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\bin\Debug\net6.0\numberpyramid.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\bin\Debug\net6.0\numberpyramid.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\bin\Debug\net6.0\numberpyramid.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\bin\Debug\net6.0\numberpyramid.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\obj\Debug\net6.0\numberpyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\obj\Debug\net6.0\numberpyramid.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\obj\Debug\net6.0\numberpyramid.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\obj\Debug\net6.0\numberpyramid.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\obj\Debug\net6.0\numberpyramid.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\obj\Debug\net6.0\refint\numberpyramid.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\obj\Debug\net6.0\numberpyramid.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\obj\Debug\net6.0\numberpyramid.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\numberpyramid\obj\Debug\net6.0\ref\numberpyramid.dll

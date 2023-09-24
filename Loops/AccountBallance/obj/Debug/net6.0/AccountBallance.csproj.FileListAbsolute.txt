@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\bin\Debug\net6.0\AccountBallance.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\bin\Debug\net6.0\AccountBallance.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\bin\Debug\net6.0\AccountBallance.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\bin\Debug\net6.0\AccountBallance.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\bin\Debug\net6.0\AccountBallance.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\obj\Debug\net6.0\AccountBallance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\obj\Debug\net6.0\AccountBallance.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\obj\Debug\net6.0\AccountBallance.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\obj\Debug\net6.0\AccountBallance.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\obj\Debug\net6.0\AccountBallance.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\obj\Debug\net6.0\refint\AccountBallance.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\obj\Debug\net6.0\AccountBallance.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\obj\Debug\net6.0\AccountBallance.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\AccountBallance\obj\Debug\net6.0\ref\AccountBallance.dll

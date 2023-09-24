@@ -1,0 +1,14 @@
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\bin\Debug\net6.0\SumOfPrimeNonPrime.exe
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\bin\Debug\net6.0\SumOfPrimeNonPrime.deps.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\bin\Debug\net6.0\SumOfPrimeNonPrime.runtimeconfig.json
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\bin\Debug\net6.0\SumOfPrimeNonPrime.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\bin\Debug\net6.0\SumOfPrimeNonPrime.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\obj\Debug\net6.0\SumOfPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\obj\Debug\net6.0\SumOfPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\obj\Debug\net6.0\SumOfPrimeNonPrime.AssemblyInfo.cs
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\obj\Debug\net6.0\SumOfPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\obj\Debug\net6.0\SumOfPrimeNonPrime.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\obj\Debug\net6.0\refint\SumOfPrimeNonPrime.dll
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\obj\Debug\net6.0\SumOfPrimeNonPrime.pdb
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\obj\Debug\net6.0\SumOfPrimeNonPrime.genruntimeconfig.cache
+C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\SumOfPrimeNonPrime\obj\Debug\net6.0\ref\SumOfPrimeNonPrime.dll
