@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\bin\Debug\net6.0\CoffeeShopChecks.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\bin\Debug\net6.0\CoffeeShopChecks.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\bin\Debug\net6.0\CoffeeShopChecks.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\bin\Debug\net6.0\CoffeeShopChecks.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\bin\Debug\net6.0\CoffeeShopChecks.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\obj\Debug\net6.0\refint\CoffeeShopChecks.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\CoffeeShopChecks\obj\Debug\net6.0\ref\CoffeeShopChecks.dll

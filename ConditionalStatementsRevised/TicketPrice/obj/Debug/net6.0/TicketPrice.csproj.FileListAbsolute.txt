@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\bin\Debug\net6.0\TicketPrice.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\bin\Debug\net6.0\TicketPrice.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\bin\Debug\net6.0\TicketPrice.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\bin\Debug\net6.0\TicketPrice.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\bin\Debug\net6.0\TicketPrice.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\obj\Debug\net6.0\TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\obj\Debug\net6.0\TicketPrice.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\obj\Debug\net6.0\TicketPrice.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\obj\Debug\net6.0\refint\TicketPrice.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\obj\Debug\net6.0\TicketPrice.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\obj\Debug\net6.0\TicketPrice.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\TicketPrice\obj\Debug\net6.0\ref\TicketPrice.dll

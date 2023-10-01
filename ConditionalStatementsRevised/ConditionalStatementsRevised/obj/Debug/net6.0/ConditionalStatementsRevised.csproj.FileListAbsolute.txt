@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\bin\Debug\net6.0\ConditionalStatementsRevised.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\bin\Debug\net6.0\ConditionalStatementsRevised.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\bin\Debug\net6.0\ConditionalStatementsRevised.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\bin\Debug\net6.0\ConditionalStatementsRevised.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\bin\Debug\net6.0\ConditionalStatementsRevised.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\obj\Debug\net6.0\ConditionalStatementsRevised.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\obj\Debug\net6.0\ConditionalStatementsRevised.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\obj\Debug\net6.0\ConditionalStatementsRevised.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\obj\Debug\net6.0\ConditionalStatementsRevised.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\obj\Debug\net6.0\ConditionalStatementsRevised.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\obj\Debug\net6.0\refint\ConditionalStatementsRevised.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\obj\Debug\net6.0\ConditionalStatementsRevised.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\obj\Debug\net6.0\ConditionalStatementsRevised.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ConditionalStatementsRevised\obj\Debug\net6.0\ref\ConditionalStatementsRevised.dll

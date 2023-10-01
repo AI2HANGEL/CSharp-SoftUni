@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\bin\Debug\net6.0\GreaterNumber.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\bin\Debug\net6.0\GreaterNumber.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\bin\Debug\net6.0\GreaterNumber.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\bin\Debug\net6.0\GreaterNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\bin\Debug\net6.0\GreaterNumber.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\obj\Debug\net6.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\obj\Debug\net6.0\GreaterNumber.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\obj\Debug\net6.0\GreaterNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\obj\Debug\net6.0\refint\GreaterNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\obj\Debug\net6.0\GreaterNumber.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\obj\Debug\net6.0\GreaterNumber.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\GreaterNumber\obj\Debug\net6.0\ref\GreaterNumber.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2tUZZVtGx8wlzKAmqoAIq2mfpP96mBqupTgjpcMsfiVJgNub92A/pC0v5LmAmG2QIBkp2dZKkWJaVY8AyBO6MA==",
+  "dgSpecHash": "E05YnqMbv93ZLZ7SsUN0xiWTIJ/76BqZpNZni2/vV++nmKYP+et89ic86Vi5FImgEsBZjn24zlHxpLtv/3wdzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\EqualSumOfEvenAndOdd\\EqualSumOfEvenAndOdd.csproj",
+  "projectFilePath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\EqualSumOfEvenAndOdd\\EqualSumOfEvenAndOdd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

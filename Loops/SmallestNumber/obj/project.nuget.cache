@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6zZITGa9/Fl0SNC0Gs8KfjLuAUuUvsquOucPYGcbVfZJrbNmNx+82DRE/HXSNE1x73U0CnCUXXq/3coXvgwXBw==",
+  "dgSpecHash": "wZ6jZsfMmX9tnUaN+a5rD1IdZnw214HMXtoixBpxwJJ3W30G/djh/RQjfEBGTsWnxRRX/KM+i9yFMY2jI/O9jA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\SmallestNumber\\SmallestNumber.csproj",
+  "projectFilePath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\SmallestNumber\\SmallestNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

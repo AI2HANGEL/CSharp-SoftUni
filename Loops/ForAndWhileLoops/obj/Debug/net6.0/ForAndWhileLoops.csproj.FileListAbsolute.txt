@@ -12,3 +12,17 @@ C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\ForAndWh
 C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\ForAndWhileLoops\obj\Debug\net6.0\ForAndWhileLoops.pdb
 C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\ForAndWhileLoops\obj\Debug\net6.0\ForAndWhileLoops.genruntimeconfig.cache
 C:\Users\Daniel Prandzhev\source\repos\CSharp-SoftUni\NumbersFromOnetoN\ForAndWhileLoops\obj\Debug\net6.0\ref\ForAndWhileLoops.dll
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\bin\Debug\net6.0\ForAndWhileLoops.exe
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\bin\Debug\net6.0\ForAndWhileLoops.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\bin\Debug\net6.0\ForAndWhileLoops.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\bin\Debug\net6.0\ForAndWhileLoops.dll
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\bin\Debug\net6.0\ForAndWhileLoops.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\obj\Debug\net6.0\ForAndWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\obj\Debug\net6.0\ForAndWhileLoops.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\obj\Debug\net6.0\ForAndWhileLoops.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\obj\Debug\net6.0\ForAndWhileLoops.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\obj\Debug\net6.0\ForAndWhileLoops.dll
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\obj\Debug\net6.0\refint\ForAndWhileLoops.dll
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\obj\Debug\net6.0\ForAndWhileLoops.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\obj\Debug\net6.0\ForAndWhileLoops.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Loops\ForAndWhileLoops\obj\Debug\net6.0\ref\ForAndWhileLoops.dll

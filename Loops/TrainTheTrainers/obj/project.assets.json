@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\TrainTheTrainers\\TrainTheTrainers.csproj",
+      "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\TrainTheTrainers\\TrainTheTrainers.csproj",
       "projectName": "TrainTheTrainers",
-      "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\TrainTheTrainers\\TrainTheTrainers.csproj",
+      "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\TrainTheTrainers\\TrainTheTrainers.csproj",
       "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\TrainTheTrainers\\obj\\",
+      "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\TrainTheTrainers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hrUJS6P7u/uX/zde7FvwDFbPAoUPrluLaWQZnXEXIKBW35ApNlSzDz2AVW4ID1g/ortlu+THReFHEPZdN+fYXQ==",
+  "dgSpecHash": "ZCFcVWSSFMWP/v4iG+rPuyv6PDD3UFl+IHu5LTxXkVHJp/z/lxjlbMHdYyxFuJ+QRt6LsBILTC32J/1pQ5sV5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\SumOfPrimeNonPrime\\SumOfPrimeNonPrime.csproj",
+  "projectFilePath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\SumOfPrimeNonPrime\\SumOfPrimeNonPrime.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

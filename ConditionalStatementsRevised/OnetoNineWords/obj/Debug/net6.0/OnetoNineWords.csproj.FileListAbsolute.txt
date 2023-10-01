@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\bin\Debug\net6.0\OnetoNineWords.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\bin\Debug\net6.0\OnetoNineWords.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\bin\Debug\net6.0\OnetoNineWords.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\bin\Debug\net6.0\OnetoNineWords.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\bin\Debug\net6.0\OnetoNineWords.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\obj\Debug\net6.0\OnetoNineWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\obj\Debug\net6.0\OnetoNineWords.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\obj\Debug\net6.0\OnetoNineWords.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\obj\Debug\net6.0\OnetoNineWords.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\obj\Debug\net6.0\OnetoNineWords.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\obj\Debug\net6.0\refint\OnetoNineWords.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\obj\Debug\net6.0\OnetoNineWords.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\obj\Debug\net6.0\OnetoNineWords.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\OnetoNineWords\obj\Debug\net6.0\ref\OnetoNineWords.dll

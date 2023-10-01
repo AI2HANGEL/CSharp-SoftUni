@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\EvenPowersOfTwo\\EvenPowersOfTwo.csproj": {}
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\EvenPowersOfTwo\\EvenPowersOfTwo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\EvenPowersOfTwo\\EvenPowersOfTwo.csproj": {
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\EvenPowersOfTwo\\EvenPowersOfTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\EvenPowersOfTwo\\EvenPowersOfTwo.csproj",
+        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\EvenPowersOfTwo\\EvenPowersOfTwo.csproj",
         "projectName": "EvenPowersOfTwo",
-        "projectPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\EvenPowersOfTwo\\EvenPowersOfTwo.csproj",
+        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\EvenPowersOfTwo\\EvenPowersOfTwo.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Prandzhev\\source\\repos\\CSharp-SoftUni\\NumbersFromOnetoN\\EvenPowersOfTwo\\obj\\",
+        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Loops\\EvenPowersOfTwo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
