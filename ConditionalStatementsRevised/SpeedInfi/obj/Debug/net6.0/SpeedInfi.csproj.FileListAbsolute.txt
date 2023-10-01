@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\bin\Debug\net6.0\SpeedInfi.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\bin\Debug\net6.0\SpeedInfi.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\bin\Debug\net6.0\SpeedInfi.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\bin\Debug\net6.0\SpeedInfi.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\bin\Debug\net6.0\SpeedInfi.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\obj\Debug\net6.0\SpeedInfi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\obj\Debug\net6.0\SpeedInfi.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\obj\Debug\net6.0\SpeedInfi.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\obj\Debug\net6.0\SpeedInfi.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\obj\Debug\net6.0\SpeedInfi.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\obj\Debug\net6.0\refint\SpeedInfi.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\obj\Debug\net6.0\SpeedInfi.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\obj\Debug\net6.0\SpeedInfi.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SpeedInfi\obj\Debug\net6.0\ref\SpeedInfi.dll

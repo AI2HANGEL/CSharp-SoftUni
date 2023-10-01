@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\obj\Debug\net6.0\refint\FoodOrDrink.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\FoodOrDrink\obj\Debug\net6.0\ref\FoodOrDrink.dll

@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\obj\Debug\net6.0\MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\obj\Debug\net6.0\MarketPlace.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\obj\Debug\net6.0\MarketPlace.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\obj\Debug\net6.0\MarketPlace.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\bin\Debug\net6.0\MarketPlace.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\bin\Debug\net6.0\MarketPlace.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\bin\Debug\net6.0\MarketPlace.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\bin\Debug\net6.0\MarketPlace.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\bin\Debug\net6.0\MarketPlace.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\obj\Debug\net6.0\MarketPlace.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\obj\Debug\net6.0\refint\MarketPlace.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\obj\Debug\net6.0\MarketPlace.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\obj\Debug\net6.0\MarketPlace.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\MarketPlace\obj\Debug\net6.0\ref\MarketPlace.dll

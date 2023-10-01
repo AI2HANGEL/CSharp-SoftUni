@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\obj\Debug\net6.0\refint\VowelOrConsonant.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VowelOrConsonant\obj\Debug\net6.0\ref\VowelOrConsonant.dll

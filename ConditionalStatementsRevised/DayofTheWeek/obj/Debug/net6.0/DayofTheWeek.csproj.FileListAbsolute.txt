@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\bin\Debug\net6.0\DayofTheWeek.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\bin\Debug\net6.0\DayofTheWeek.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\bin\Debug\net6.0\DayofTheWeek.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\bin\Debug\net6.0\DayofTheWeek.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\bin\Debug\net6.0\DayofTheWeek.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\obj\Debug\net6.0\DayofTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\obj\Debug\net6.0\DayofTheWeek.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\obj\Debug\net6.0\DayofTheWeek.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\obj\Debug\net6.0\DayofTheWeek.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\obj\Debug\net6.0\DayofTheWeek.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\obj\Debug\net6.0\refint\DayofTheWeek.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\obj\Debug\net6.0\DayofTheWeek.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\obj\Debug\net6.0\DayofTheWeek.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\DayofTheWeek\obj\Debug\net6.0\ref\DayofTheWeek.dll
