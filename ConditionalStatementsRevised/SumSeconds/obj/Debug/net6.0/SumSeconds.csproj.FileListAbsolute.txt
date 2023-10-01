@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\bin\Debug\net6.0\SumSeconds.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\bin\Debug\net6.0\SumSeconds.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\bin\Debug\net6.0\SumSeconds.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\bin\Debug\net6.0\SumSeconds.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\bin\Debug\net6.0\SumSeconds.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\obj\Debug\net6.0\SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\obj\Debug\net6.0\SumSeconds.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\obj\Debug\net6.0\SumSeconds.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\obj\Debug\net6.0\SumSeconds.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\obj\Debug\net6.0\SumSeconds.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\obj\Debug\net6.0\refint\SumSeconds.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\obj\Debug\net6.0\SumSeconds.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\obj\Debug\net6.0\SumSeconds.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\SumSeconds\obj\Debug\net6.0\ref\SumSeconds.dll

@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\obj\Debug\net6.0\VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\obj\Debug\net6.0\VacationExpenses.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\obj\Debug\net6.0\VacationExpenses.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\obj\Debug\net6.0\VacationExpenses.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\bin\Debug\net6.0\VacationExpenses.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\bin\Debug\net6.0\VacationExpenses.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\bin\Debug\net6.0\VacationExpenses.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\bin\Debug\net6.0\VacationExpenses.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\bin\Debug\net6.0\VacationExpenses.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\obj\Debug\net6.0\VacationExpenses.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\obj\Debug\net6.0\refint\VacationExpenses.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\obj\Debug\net6.0\VacationExpenses.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\obj\Debug\net6.0\VacationExpenses.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\VacationExpenses\obj\Debug\net6.0\ref\VacationExpenses.dll

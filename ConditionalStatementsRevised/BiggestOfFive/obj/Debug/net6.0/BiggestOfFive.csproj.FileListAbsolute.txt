@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\bin\Debug\net6.0\BiggestOfFive.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\bin\Debug\net6.0\BiggestOfFive.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\bin\Debug\net6.0\BiggestOfFive.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\bin\Debug\net6.0\BiggestOfFive.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\bin\Debug\net6.0\BiggestOfFive.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\obj\Debug\net6.0\BiggestOfFive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\obj\Debug\net6.0\BiggestOfFive.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\obj\Debug\net6.0\BiggestOfFive.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\obj\Debug\net6.0\BiggestOfFive.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\obj\Debug\net6.0\BiggestOfFive.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\obj\Debug\net6.0\refint\BiggestOfFive.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\obj\Debug\net6.0\BiggestOfFive.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\obj\Debug\net6.0\BiggestOfFive.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\BiggestOfFive\obj\Debug\net6.0\ref\BiggestOfFive.dll

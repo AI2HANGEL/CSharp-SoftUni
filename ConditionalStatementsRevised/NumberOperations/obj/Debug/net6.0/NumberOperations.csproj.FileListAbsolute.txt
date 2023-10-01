@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\bin\Debug\net6.0\NumberOperations.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\bin\Debug\net6.0\NumberOperations.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\bin\Debug\net6.0\NumberOperations.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\bin\Debug\net6.0\NumberOperations.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\bin\Debug\net6.0\NumberOperations.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\obj\Debug\net6.0\NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\obj\Debug\net6.0\NumberOperations.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\obj\Debug\net6.0\NumberOperations.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\obj\Debug\net6.0\NumberOperations.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\obj\Debug\net6.0\NumberOperations.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\obj\Debug\net6.0\refint\NumberOperations.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\obj\Debug\net6.0\NumberOperations.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\obj\Debug\net6.0\NumberOperations.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\NumberOperations\obj\Debug\net6.0\ref\NumberOperations.dll

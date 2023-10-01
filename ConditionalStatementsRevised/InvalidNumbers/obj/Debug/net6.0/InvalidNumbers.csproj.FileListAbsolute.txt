@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\bin\Debug\net6.0\InvalidNumbers.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\bin\Debug\net6.0\InvalidNumbers.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\bin\Debug\net6.0\InvalidNumbers.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\bin\Debug\net6.0\InvalidNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\bin\Debug\net6.0\InvalidNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\obj\Debug\net6.0\InvalidNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\obj\Debug\net6.0\InvalidNumbers.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\obj\Debug\net6.0\InvalidNumbers.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\obj\Debug\net6.0\InvalidNumbers.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\obj\Debug\net6.0\InvalidNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\obj\Debug\net6.0\refint\InvalidNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\obj\Debug\net6.0\InvalidNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\obj\Debug\net6.0\InvalidNumbers.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\InvalidNumbers\obj\Debug\net6.0\ref\InvalidNumbers.dll

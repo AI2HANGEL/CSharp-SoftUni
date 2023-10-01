@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\bin\Debug\net6.0\ProductOfThreeNum.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\bin\Debug\net6.0\ProductOfThreeNum.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\bin\Debug\net6.0\ProductOfThreeNum.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\bin\Debug\net6.0\ProductOfThreeNum.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\bin\Debug\net6.0\ProductOfThreeNum.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\obj\Debug\net6.0\ProductOfThreeNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\obj\Debug\net6.0\ProductOfThreeNum.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\obj\Debug\net6.0\ProductOfThreeNum.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\obj\Debug\net6.0\ProductOfThreeNum.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\obj\Debug\net6.0\ProductOfThreeNum.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\obj\Debug\net6.0\refint\ProductOfThreeNum.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\obj\Debug\net6.0\ProductOfThreeNum.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\obj\Debug\net6.0\ProductOfThreeNum.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\ProductOfThreeNum\obj\Debug\net6.0\ref\ProductOfThreeNum.dll

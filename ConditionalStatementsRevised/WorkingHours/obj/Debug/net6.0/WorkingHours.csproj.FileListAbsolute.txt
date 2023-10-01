@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\bin\Debug\net6.0\WorkingHours.exe
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\bin\Debug\net6.0\WorkingHours.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\bin\Debug\net6.0\WorkingHours.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\bin\Debug\net6.0\WorkingHours.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\bin\Debug\net6.0\WorkingHours.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\obj\Debug\net6.0\WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\obj\Debug\net6.0\WorkingHours.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\obj\Debug\net6.0\WorkingHours.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\obj\Debug\net6.0\WorkingHours.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\obj\Debug\net6.0\WorkingHours.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\obj\Debug\net6.0\refint\WorkingHours.dll
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\obj\Debug\net6.0\WorkingHours.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\obj\Debug\net6.0\WorkingHours.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ConditionalStatementsRevised\WorkingHours\obj\Debug\net6.0\ref\WorkingHours.dll
