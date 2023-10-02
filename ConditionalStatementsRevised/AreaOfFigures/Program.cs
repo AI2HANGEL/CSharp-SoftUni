@@ -1,5 +1,3 @@
-﻿using System;
-
 string figure = Console.ReadLine();
 double area = 0;
 
@@ -29,7 +27,7 @@ switch (figure)
 
     default:
         Console.WriteLine("Invalid figure.");
-        return; // Exit the program if the figure is invalid.
+        return;
 }
 
 Console.WriteLine($"{area:f2}");
