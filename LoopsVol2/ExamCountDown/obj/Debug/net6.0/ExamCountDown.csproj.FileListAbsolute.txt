@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\bin\Debug\net6.0\ExamCountDown.exe
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\bin\Debug\net6.0\ExamCountDown.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\bin\Debug\net6.0\ExamCountDown.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\bin\Debug\net6.0\ExamCountDown.dll
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\bin\Debug\net6.0\ExamCountDown.pdb
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\obj\Debug\net6.0\ExamCountDown.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\obj\Debug\net6.0\ExamCountDown.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\obj\Debug\net6.0\ExamCountDown.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\obj\Debug\net6.0\ExamCountDown.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\obj\Debug\net6.0\ExamCountDown.dll
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\obj\Debug\net6.0\refint\ExamCountDown.dll
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\obj\Debug\net6.0\ExamCountDown.pdb
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\obj\Debug\net6.0\ExamCountDown.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ExamCountDown\obj\Debug\net6.0\ref\ExamCountDown.dll

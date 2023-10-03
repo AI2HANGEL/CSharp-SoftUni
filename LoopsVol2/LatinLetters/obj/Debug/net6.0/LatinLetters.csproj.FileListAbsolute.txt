@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\obj\Debug\net6.0\LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\obj\Debug\net6.0\LatinLetters.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\obj\Debug\net6.0\LatinLetters.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\obj\Debug\net6.0\LatinLetters.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\bin\Debug\net6.0\LatinLetters.exe
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\bin\Debug\net6.0\LatinLetters.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\bin\Debug\net6.0\LatinLetters.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\bin\Debug\net6.0\LatinLetters.dll
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\bin\Debug\net6.0\LatinLetters.pdb
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\obj\Debug\net6.0\LatinLetters.dll
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\obj\Debug\net6.0\refint\LatinLetters.dll
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\obj\Debug\net6.0\LatinLetters.pdb
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\obj\Debug\net6.0\LatinLetters.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\LatinLetters\obj\Debug\net6.0\ref\LatinLetters.dll

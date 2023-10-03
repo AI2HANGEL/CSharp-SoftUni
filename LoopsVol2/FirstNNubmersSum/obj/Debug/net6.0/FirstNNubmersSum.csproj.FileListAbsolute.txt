@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\bin\Debug\net6.0\FirstNNubmersSum.exe
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\bin\Debug\net6.0\FirstNNubmersSum.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\bin\Debug\net6.0\FirstNNubmersSum.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\bin\Debug\net6.0\FirstNNubmersSum.dll
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\bin\Debug\net6.0\FirstNNubmersSum.pdb
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\obj\Debug\net6.0\FirstNNubmersSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\obj\Debug\net6.0\FirstNNubmersSum.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\obj\Debug\net6.0\FirstNNubmersSum.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\obj\Debug\net6.0\FirstNNubmersSum.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\obj\Debug\net6.0\FirstNNubmersSum.dll
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\obj\Debug\net6.0\refint\FirstNNubmersSum.dll
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\obj\Debug\net6.0\FirstNNubmersSum.pdb
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\obj\Debug\net6.0\FirstNNubmersSum.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\FirstNNubmersSum\obj\Debug\net6.0\ref\FirstNNubmersSum.dll
