@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\FirstNNubmersSum\\FirstNNubmersSum.csproj",
+      "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\FirstNNubmersSum\\FirstNNubmersSum.csproj",
       "projectName": "FirstNNubmersSum",
-      "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\FirstNNubmersSum\\FirstNNubmersSum.csproj",
+      "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\FirstNNubmersSum\\FirstNNubmersSum.csproj",
       "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-      "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\FirstNNubmersSum\\obj\\",
+      "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\FirstNNubmersSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

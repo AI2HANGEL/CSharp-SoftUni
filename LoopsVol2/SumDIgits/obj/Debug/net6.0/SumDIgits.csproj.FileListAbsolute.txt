@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\bin\Debug\net6.0\SumDIgits.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\bin\Debug\net6.0\SumDIgits.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\bin\Debug\net6.0\SumDIgits.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\bin\Debug\net6.0\SumDIgits.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\bin\Debug\net6.0\SumDIgits.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\obj\Debug\net6.0\SumDIgits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\obj\Debug\net6.0\SumDIgits.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\obj\Debug\net6.0\SumDIgits.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\obj\Debug\net6.0\SumDIgits.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\obj\Debug\net6.0\SumDIgits.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\obj\Debug\net6.0\refint\SumDIgits.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\obj\Debug\net6.0\SumDIgits.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\obj\Debug\net6.0\SumDIgits.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumDIgits\obj\Debug\net6.0\ref\SumDIgits.dll

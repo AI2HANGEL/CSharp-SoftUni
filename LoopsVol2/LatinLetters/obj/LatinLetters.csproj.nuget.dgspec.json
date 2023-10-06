@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\LatinLetters\\LatinLetters.csproj": {}
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\LatinLetters\\LatinLetters.csproj": {}
   },
   "projects": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\LatinLetters\\LatinLetters.csproj": {
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\LatinLetters\\LatinLetters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\LatinLetters\\LatinLetters.csproj",
+        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\LatinLetters\\LatinLetters.csproj",
         "projectName": "LatinLetters",
-        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\LatinLetters\\LatinLetters.csproj",
+        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\LatinLetters\\LatinLetters.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\LatinLetters\\obj\\",
+        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\LatinLetters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

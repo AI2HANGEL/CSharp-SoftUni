@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\bin\Debug\net6.0\DivisionTo2-3-4.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\bin\Debug\net6.0\DivisionTo2-3-4.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\bin\Debug\net6.0\DivisionTo2-3-4.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\bin\Debug\net6.0\DivisionTo2-3-4.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\bin\Debug\net6.0\DivisionTo2-3-4.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\obj\Debug\net6.0\DivisionTo2-3-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\obj\Debug\net6.0\DivisionTo2-3-4.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\obj\Debug\net6.0\DivisionTo2-3-4.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\obj\Debug\net6.0\DivisionTo2-3-4.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\obj\Debug\net6.0\DivisionTo2-3-4.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\obj\Debug\net6.0\refint\DivisionTo2-3-4.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\obj\Debug\net6.0\DivisionTo2-3-4.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\obj\Debug\net6.0\DivisionTo2-3-4.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\DivisionTo2-3-4\obj\Debug\net6.0\ref\DivisionTo2-3-4.dll

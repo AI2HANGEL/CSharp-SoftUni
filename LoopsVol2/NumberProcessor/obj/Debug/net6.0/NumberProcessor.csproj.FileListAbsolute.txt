@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\bin\Debug\net6.0\NumberProcessor.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\bin\Debug\net6.0\NumberProcessor.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\bin\Debug\net6.0\NumberProcessor.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\bin\Debug\net6.0\NumberProcessor.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\bin\Debug\net6.0\NumberProcessor.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\obj\Debug\net6.0\NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\obj\Debug\net6.0\NumberProcessor.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\obj\Debug\net6.0\NumberProcessor.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\obj\Debug\net6.0\NumberProcessor.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\obj\Debug\net6.0\NumberProcessor.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\obj\Debug\net6.0\refint\NumberProcessor.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\obj\Debug\net6.0\NumberProcessor.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\obj\Debug\net6.0\NumberProcessor.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberProcessor\obj\Debug\net6.0\ref\NumberProcessor.dll

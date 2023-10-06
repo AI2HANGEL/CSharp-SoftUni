@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\bin\Debug\net6.0\TheBiggestNumber.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\bin\Debug\net6.0\TheBiggestNumber.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\bin\Debug\net6.0\TheBiggestNumber.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\bin\Debug\net6.0\TheBiggestNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\bin\Debug\net6.0\TheBiggestNumber.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\obj\Debug\net6.0\refint\TheBiggestNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TheBiggestNumber\obj\Debug\net6.0\ref\TheBiggestNumber.dll

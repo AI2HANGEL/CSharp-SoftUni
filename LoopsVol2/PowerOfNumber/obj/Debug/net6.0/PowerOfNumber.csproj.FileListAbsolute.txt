@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\bin\Debug\net6.0\PowerOfNumber.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\bin\Debug\net6.0\PowerOfNumber.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\bin\Debug\net6.0\PowerOfNumber.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\bin\Debug\net6.0\PowerOfNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\bin\Debug\net6.0\PowerOfNumber.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\obj\Debug\net6.0\refint\PowerOfNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\PowerOfNumber\obj\Debug\net6.0\ref\PowerOfNumber.dll

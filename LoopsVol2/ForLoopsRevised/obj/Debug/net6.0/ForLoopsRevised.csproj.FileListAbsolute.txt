@@ -12,3 +12,17 @@ D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ForLoopsRevised\obj\Debug\net6.0\re
 D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ForLoopsRevised\obj\Debug\net6.0\ForLoopsRevised.pdb
 D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ForLoopsRevised\obj\Debug\net6.0\ForLoopsRevised.genruntimeconfig.cache
 D:\Rep_Softuni\CSharp-SoftUni\NumbersInRange\ForLoopsRevised\obj\Debug\net6.0\ref\ForLoopsRevised.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\bin\Debug\net6.0\ForLoopsRevised.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\bin\Debug\net6.0\ForLoopsRevised.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\bin\Debug\net6.0\ForLoopsRevised.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\bin\Debug\net6.0\ForLoopsRevised.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\bin\Debug\net6.0\ForLoopsRevised.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\obj\Debug\net6.0\ForLoopsRevised.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\obj\Debug\net6.0\ForLoopsRevised.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\obj\Debug\net6.0\ForLoopsRevised.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\obj\Debug\net6.0\ForLoopsRevised.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\obj\Debug\net6.0\ForLoopsRevised.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\obj\Debug\net6.0\refint\ForLoopsRevised.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\obj\Debug\net6.0\ForLoopsRevised.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\obj\Debug\net6.0\ForLoopsRevised.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\ForLoopsRevised\obj\Debug\net6.0\ref\ForLoopsRevised.dll

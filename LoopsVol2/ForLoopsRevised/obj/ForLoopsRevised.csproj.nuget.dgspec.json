@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\ForLoopsRevised\\ForLoopsRevised.csproj": {}
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\ForLoopsRevised\\ForLoopsRevised.csproj": {}
   },
   "projects": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\ForLoopsRevised\\ForLoopsRevised.csproj": {
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\ForLoopsRevised\\ForLoopsRevised.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\ForLoopsRevised\\ForLoopsRevised.csproj",
+        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\ForLoopsRevised\\ForLoopsRevised.csproj",
         "projectName": "ForLoopsRevised",
-        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\ForLoopsRevised\\ForLoopsRevised.csproj",
+        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\ForLoopsRevised\\ForLoopsRevised.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\ForLoopsRevised\\obj\\",
+        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\ForLoopsRevised\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

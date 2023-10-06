@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\bin\Debug\net6.0\VowelSum.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\bin\Debug\net6.0\VowelSum.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\bin\Debug\net6.0\VowelSum.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\bin\Debug\net6.0\VowelSum.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\bin\Debug\net6.0\VowelSum.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\obj\Debug\net6.0\VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\obj\Debug\net6.0\VowelSum.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\obj\Debug\net6.0\VowelSum.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\obj\Debug\net6.0\VowelSum.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\obj\Debug\net6.0\VowelSum.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\obj\Debug\net6.0\refint\VowelSum.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\obj\Debug\net6.0\VowelSum.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\obj\Debug\net6.0\VowelSum.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\VowelSum\obj\Debug\net6.0\ref\VowelSum.dll

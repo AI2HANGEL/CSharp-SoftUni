@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\bin\Debug\net6.0\AccountBallance.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\bin\Debug\net6.0\AccountBallance.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\bin\Debug\net6.0\AccountBallance.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\bin\Debug\net6.0\AccountBallance.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\bin\Debug\net6.0\AccountBallance.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\obj\Debug\net6.0\AccountBallance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\obj\Debug\net6.0\AccountBallance.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\obj\Debug\net6.0\AccountBallance.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\obj\Debug\net6.0\AccountBallance.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\obj\Debug\net6.0\AccountBallance.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\obj\Debug\net6.0\refint\AccountBallance.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\obj\Debug\net6.0\AccountBallance.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\obj\Debug\net6.0\AccountBallance.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\AccountBallance\obj\Debug\net6.0\ref\AccountBallance.dll

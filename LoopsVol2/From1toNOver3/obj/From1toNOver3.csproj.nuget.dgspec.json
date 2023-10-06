@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\From1toNOver3\\From1toNOver3.csproj": {}
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\From1toNOver3\\From1toNOver3.csproj": {}
   },
   "projects": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\From1toNOver3\\From1toNOver3.csproj": {
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\From1toNOver3\\From1toNOver3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\From1toNOver3\\From1toNOver3.csproj",
+        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\From1toNOver3\\From1toNOver3.csproj",
         "projectName": "From1toNOver3",
-        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\From1toNOver3\\From1toNOver3.csproj",
+        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\From1toNOver3\\From1toNOver3.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\From1toNOver3\\obj\\",
+        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\From1toNOver3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

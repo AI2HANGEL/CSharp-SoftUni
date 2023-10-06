@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\ExamCountDown\\ExamCountDown.csproj": {}
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\ExamCountDown\\ExamCountDown.csproj": {}
   },
   "projects": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\ExamCountDown\\ExamCountDown.csproj": {
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\ExamCountDown\\ExamCountDown.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\ExamCountDown\\ExamCountDown.csproj",
+        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\ExamCountDown\\ExamCountDown.csproj",
         "projectName": "ExamCountDown",
-        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\ExamCountDown\\ExamCountDown.csproj",
+        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\ExamCountDown\\ExamCountDown.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\ExamCountDown\\obj\\",
+        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\ExamCountDown\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

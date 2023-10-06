@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\NumbersEndingInSeven\\NumbersEndingInSeven.csproj",
+      "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\NumbersEndingInSeven\\NumbersEndingInSeven.csproj",
       "projectName": "NumbersEndingInSeven",
-      "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\NumbersEndingInSeven\\NumbersEndingInSeven.csproj",
+      "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\NumbersEndingInSeven\\NumbersEndingInSeven.csproj",
       "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-      "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\NumbersEndingInSeven\\obj\\",
+      "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\NumbersEndingInSeven\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

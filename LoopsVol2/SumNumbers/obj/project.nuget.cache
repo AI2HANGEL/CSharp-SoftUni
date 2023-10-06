@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HWibNM90QlRICNApAScPrn5l2Sc77hmoQutgQsUBnyIeL5ulmSwB+ptCA/YXc4OVGyiirH2JyAA3tF6LOhAwbQ==",
+  "dgSpecHash": "6tpDMpGg6MhLRLBJ9JmeD2DaSMzR6ogAs+/IKDGeH0DL/8x1ru9LVymg5DrJA1JcE7wHWgkPXqTOmeYI1FCldA==",
   "success": true,
-  "projectFilePath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\SumNumbers\\SumNumbers.csproj",
+  "projectFilePath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\SumNumbers\\SumNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

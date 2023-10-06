@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\SumNumbers\\SumNumbers.csproj": {}
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\SumNumbers\\SumNumbers.csproj": {}
   },
   "projects": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\SumNumbers\\SumNumbers.csproj": {
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\SumNumbers\\SumNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\SumNumbers\\SumNumbers.csproj",
+        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\SumNumbers\\SumNumbers.csproj",
         "projectName": "SumNumbers",
-        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\SumNumbers\\SumNumbers.csproj",
+        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\SumNumbers\\SumNumbers.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\NumbersInRange\\SumNumbers\\obj\\",
+        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\LoopsVol2\\SumNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

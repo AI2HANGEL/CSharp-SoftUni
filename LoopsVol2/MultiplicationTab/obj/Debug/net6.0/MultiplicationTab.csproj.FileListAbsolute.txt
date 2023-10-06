@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\obj\Debug\net6.0\MultiplicationTab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\obj\Debug\net6.0\MultiplicationTab.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\obj\Debug\net6.0\MultiplicationTab.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\obj\Debug\net6.0\MultiplicationTab.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\bin\Debug\net6.0\MultiplicationTab.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\bin\Debug\net6.0\MultiplicationTab.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\bin\Debug\net6.0\MultiplicationTab.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\bin\Debug\net6.0\MultiplicationTab.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\bin\Debug\net6.0\MultiplicationTab.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\obj\Debug\net6.0\MultiplicationTab.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\obj\Debug\net6.0\refint\MultiplicationTab.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\obj\Debug\net6.0\MultiplicationTab.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\obj\Debug\net6.0\MultiplicationTab.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\MultiplicationTab\obj\Debug\net6.0\ref\MultiplicationTab.dll

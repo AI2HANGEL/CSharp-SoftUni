@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\bin\Debug\net6.0\NumberInRange.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\bin\Debug\net6.0\NumberInRange.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\bin\Debug\net6.0\NumberInRange.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\bin\Debug\net6.0\NumberInRange.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\bin\Debug\net6.0\NumberInRange.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\obj\Debug\net6.0\NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\obj\Debug\net6.0\NumberInRange.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\obj\Debug\net6.0\NumberInRange.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\obj\Debug\net6.0\NumberInRange.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\obj\Debug\net6.0\NumberInRange.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\obj\Debug\net6.0\refint\NumberInRange.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\obj\Debug\net6.0\NumberInRange.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\obj\Debug\net6.0\NumberInRange.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumberInRange\obj\Debug\net6.0\ref\NumberInRange.dll

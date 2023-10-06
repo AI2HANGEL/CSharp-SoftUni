@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\obj\Debug\net6.0\SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\obj\Debug\net6.0\SpecialNumber.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\obj\Debug\net6.0\SpecialNumber.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\obj\Debug\net6.0\SpecialNumber.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\bin\Debug\net6.0\SpecialNumber.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\bin\Debug\net6.0\SpecialNumber.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\bin\Debug\net6.0\SpecialNumber.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\bin\Debug\net6.0\SpecialNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\bin\Debug\net6.0\SpecialNumber.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\obj\Debug\net6.0\SpecialNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\obj\Debug\net6.0\refint\SpecialNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\obj\Debug\net6.0\SpecialNumber.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\obj\Debug\net6.0\SpecialNumber.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SpecialNumber\obj\Debug\net6.0\ref\SpecialNumber.dll
