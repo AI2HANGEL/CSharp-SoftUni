@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\obj\Debug\net6.0\refint\EvenPowersOf2.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\EvenPowersOf2\obj\Debug\net6.0\ref\EvenPowersOf2.dll

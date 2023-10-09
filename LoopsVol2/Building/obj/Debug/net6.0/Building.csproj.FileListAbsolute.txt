@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\bin\Debug\net6.0\Building.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\bin\Debug\net6.0\Building.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\bin\Debug\net6.0\Building.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\bin\Debug\net6.0\Building.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\bin\Debug\net6.0\Building.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\obj\Debug\net6.0\Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\obj\Debug\net6.0\Building.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\obj\Debug\net6.0\Building.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\obj\Debug\net6.0\Building.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\obj\Debug\net6.0\Building.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\obj\Debug\net6.0\refint\Building.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\obj\Debug\net6.0\Building.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\obj\Debug\net6.0\Building.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\Building\obj\Debug\net6.0\ref\Building.dll

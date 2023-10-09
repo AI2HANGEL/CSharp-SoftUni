@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\bin\Debug\net6.0\NumbersFromNto1.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\bin\Debug\net6.0\NumbersFromNto1.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\bin\Debug\net6.0\NumbersFromNto1.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\bin\Debug\net6.0\NumbersFromNto1.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\bin\Debug\net6.0\NumbersFromNto1.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\obj\Debug\net6.0\NumbersFromNto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\obj\Debug\net6.0\NumbersFromNto1.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\obj\Debug\net6.0\NumbersFromNto1.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\obj\Debug\net6.0\NumbersFromNto1.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\obj\Debug\net6.0\NumbersFromNto1.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\obj\Debug\net6.0\refint\NumbersFromNto1.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\obj\Debug\net6.0\NumbersFromNto1.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\obj\Debug\net6.0\NumbersFromNto1.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\NumbersFromNto1\obj\Debug\net6.0\ref\NumbersFromNto1.dll

@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\bin\Debug\net6.0\TriangleOfStars.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\bin\Debug\net6.0\TriangleOfStars.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\bin\Debug\net6.0\TriangleOfStars.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\bin\Debug\net6.0\TriangleOfStars.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\bin\Debug\net6.0\TriangleOfStars.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\obj\Debug\net6.0\TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\obj\Debug\net6.0\TriangleOfStars.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\obj\Debug\net6.0\TriangleOfStars.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\obj\Debug\net6.0\TriangleOfStars.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\obj\Debug\net6.0\TriangleOfStars.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\obj\Debug\net6.0\refint\TriangleOfStars.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\obj\Debug\net6.0\TriangleOfStars.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\obj\Debug\net6.0\TriangleOfStars.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TriangleOfStars\obj\Debug\net6.0\ref\TriangleOfStars.dll
