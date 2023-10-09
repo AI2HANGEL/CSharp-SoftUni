@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\obj\Debug\net6.0\TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\obj\Debug\net6.0\TravelSavings.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\obj\Debug\net6.0\TravelSavings.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\obj\Debug\net6.0\TravelSavings.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\bin\Debug\net6.0\TravelSavings.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\bin\Debug\net6.0\TravelSavings.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\bin\Debug\net6.0\TravelSavings.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\bin\Debug\net6.0\TravelSavings.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\bin\Debug\net6.0\TravelSavings.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\obj\Debug\net6.0\TravelSavings.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\obj\Debug\net6.0\refint\TravelSavings.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\obj\Debug\net6.0\TravelSavings.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\obj\Debug\net6.0\TravelSavings.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\TravelSavings\obj\Debug\net6.0\ref\TravelSavings.dll

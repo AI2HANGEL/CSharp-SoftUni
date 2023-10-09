@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\bin\Debug\net6.0\SumOfDigitsCalculator.exe
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\bin\Debug\net6.0\SumOfDigitsCalculator.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\bin\Debug\net6.0\SumOfDigitsCalculator.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\bin\Debug\net6.0\SumOfDigitsCalculator.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\bin\Debug\net6.0\SumOfDigitsCalculator.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\obj\Debug\net6.0\refint\SumOfDigitsCalculator.dll
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.pdb
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\LoopsVol2\SumOfDigitsCalculator\obj\Debug\net6.0\ref\SumOfDigitsCalculator.dll
