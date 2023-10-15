@@ -1,5 +1,4 @@
-﻿string line = Console.ReadLine();
-
+﻿
 static void GetVowelsCount(string line)
 {
     int count = 0;
@@ -17,11 +16,11 @@ static void GetVowelsCount(string line)
                 count++;
                 break;
         }
-        Console.WriteLine(count);
+        
     }
+    Console.WriteLine(count);
 
 }
-
 
 string word = Console.ReadLine();
 GetVowelsCount(word);
