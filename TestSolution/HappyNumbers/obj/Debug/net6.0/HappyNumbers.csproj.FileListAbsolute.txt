@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\bin\Debug\net6.0\HappyNumbers.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\bin\Debug\net6.0\HappyNumbers.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\bin\Debug\net6.0\HappyNumbers.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\bin\Debug\net6.0\HappyNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\bin\Debug\net6.0\HappyNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\obj\Debug\net6.0\HappyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\obj\Debug\net6.0\HappyNumbers.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\obj\Debug\net6.0\HappyNumbers.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\obj\Debug\net6.0\HappyNumbers.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\obj\Debug\net6.0\HappyNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\obj\Debug\net6.0\refint\HappyNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\obj\Debug\net6.0\HappyNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\obj\Debug\net6.0\HappyNumbers.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\HappyNumbers\obj\Debug\net6.0\ref\HappyNumbers.dll

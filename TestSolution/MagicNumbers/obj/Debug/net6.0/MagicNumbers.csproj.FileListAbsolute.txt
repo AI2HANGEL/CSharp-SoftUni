@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\bin\Debug\net6.0\MagicNumbers.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\bin\Debug\net6.0\MagicNumbers.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\bin\Debug\net6.0\MagicNumbers.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\bin\Debug\net6.0\MagicNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\bin\Debug\net6.0\MagicNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\obj\Debug\net6.0\MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\obj\Debug\net6.0\MagicNumbers.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\obj\Debug\net6.0\MagicNumbers.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\obj\Debug\net6.0\MagicNumbers.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\obj\Debug\net6.0\MagicNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\obj\Debug\net6.0\refint\MagicNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\obj\Debug\net6.0\MagicNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\obj\Debug\net6.0\MagicNumbers.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MagicNumbers\obj\Debug\net6.0\ref\MagicNumbers.dll

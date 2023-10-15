@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\bin\Debug\net6.0\RepeatString.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\bin\Debug\net6.0\RepeatString.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\bin\Debug\net6.0\RepeatString.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\bin\Debug\net6.0\RepeatString.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\bin\Debug\net6.0\RepeatString.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\obj\Debug\net6.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\obj\Debug\net6.0\RepeatString.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\obj\Debug\net6.0\RepeatString.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\obj\Debug\net6.0\RepeatString.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\obj\Debug\net6.0\RepeatString.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\obj\Debug\net6.0\refint\RepeatString.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\obj\Debug\net6.0\RepeatString.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\obj\Debug\net6.0\RepeatString.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\RepeatString\obj\Debug\net6.0\ref\RepeatString.dll

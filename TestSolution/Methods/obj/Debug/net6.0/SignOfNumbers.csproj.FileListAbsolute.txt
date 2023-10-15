@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\bin\Debug\net6.0\SignOfNumbers.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\bin\Debug\net6.0\SignOfNumbers.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\bin\Debug\net6.0\SignOfNumbers.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\bin\Debug\net6.0\SignOfNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\bin\Debug\net6.0\SignOfNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\obj\Debug\net6.0\SignOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\obj\Debug\net6.0\SignOfNumbers.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\obj\Debug\net6.0\SignOfNumbers.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\obj\Debug\net6.0\SignOfNumbers.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\obj\Debug\net6.0\SignOfNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\obj\Debug\net6.0\refint\SignOfNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\obj\Debug\net6.0\SignOfNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\obj\Debug\net6.0\SignOfNumbers.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Methods\obj\Debug\net6.0\ref\SignOfNumbers.dll

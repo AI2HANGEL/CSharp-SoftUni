@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\obj\Debug\net6.0\VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\obj\Debug\net6.0\VowelsCount.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\obj\Debug\net6.0\VowelsCount.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\obj\Debug\net6.0\VowelsCount.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\bin\Debug\net6.0\VowelsCount.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\bin\Debug\net6.0\VowelsCount.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\bin\Debug\net6.0\VowelsCount.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\bin\Debug\net6.0\VowelsCount.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\bin\Debug\net6.0\VowelsCount.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\obj\Debug\net6.0\VowelsCount.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\obj\Debug\net6.0\refint\VowelsCount.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\obj\Debug\net6.0\VowelsCount.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\obj\Debug\net6.0\VowelsCount.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\VowelsCount\obj\Debug\net6.0\ref\VowelsCount.dll

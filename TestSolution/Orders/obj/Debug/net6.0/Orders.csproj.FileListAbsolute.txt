@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\bin\Debug\net6.0\Orders.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\bin\Debug\net6.0\Orders.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\bin\Debug\net6.0\Orders.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\bin\Debug\net6.0\Orders.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\bin\Debug\net6.0\Orders.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\obj\Debug\net6.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\obj\Debug\net6.0\Orders.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\obj\Debug\net6.0\Orders.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\obj\Debug\net6.0\Orders.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\obj\Debug\net6.0\Orders.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\obj\Debug\net6.0\refint\Orders.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\obj\Debug\net6.0\Orders.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\obj\Debug\net6.0\Orders.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Orders\obj\Debug\net6.0\ref\Orders.dll

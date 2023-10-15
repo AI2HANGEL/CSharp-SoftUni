@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\bin\Debug\net6.0\Grades.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\bin\Debug\net6.0\Grades.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\bin\Debug\net6.0\Grades.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\bin\Debug\net6.0\Grades.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\bin\Debug\net6.0\Grades.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\obj\Debug\net6.0\Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\obj\Debug\net6.0\Grades.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\obj\Debug\net6.0\Grades.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\obj\Debug\net6.0\Grades.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\obj\Debug\net6.0\Grades.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\obj\Debug\net6.0\refint\Grades.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\obj\Debug\net6.0\Grades.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\obj\Debug\net6.0\Grades.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\Grades\obj\Debug\net6.0\ref\Grades.dll

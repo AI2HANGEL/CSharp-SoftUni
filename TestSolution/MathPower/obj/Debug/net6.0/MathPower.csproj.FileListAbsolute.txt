@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\bin\Debug\net6.0\MathPower.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\bin\Debug\net6.0\MathPower.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\bin\Debug\net6.0\MathPower.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\bin\Debug\net6.0\MathPower.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\bin\Debug\net6.0\MathPower.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\obj\Debug\net6.0\MathPower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\obj\Debug\net6.0\MathPower.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\obj\Debug\net6.0\MathPower.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\obj\Debug\net6.0\MathPower.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\obj\Debug\net6.0\MathPower.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\obj\Debug\net6.0\refint\MathPower.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\obj\Debug\net6.0\MathPower.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\obj\Debug\net6.0\MathPower.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MathPower\obj\Debug\net6.0\ref\MathPower.dll

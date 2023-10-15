@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\bin\Debug\net6.0\GreaterOfTwoValues.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\bin\Debug\net6.0\GreaterOfTwoValues.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\bin\Debug\net6.0\GreaterOfTwoValues.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\bin\Debug\net6.0\GreaterOfTwoValues.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\bin\Debug\net6.0\GreaterOfTwoValues.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\obj\Debug\net6.0\refint\GreaterOfTwoValues.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\GreaterOfTwoValues\obj\Debug\net6.0\ref\GreaterOfTwoValues.dll

@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\obj\Debug\net6.0\refint\MultiplyEvensByOdds.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiplyEvensByOdds\obj\Debug\net6.0\ref\MultiplyEvensByOdds.dll

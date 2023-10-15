@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\bin\Debug\net6.0\UniquePinCodes.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\bin\Debug\net6.0\UniquePinCodes.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\bin\Debug\net6.0\UniquePinCodes.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\bin\Debug\net6.0\UniquePinCodes.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\bin\Debug\net6.0\UniquePinCodes.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\obj\Debug\net6.0\refint\UniquePinCodes.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\UniquePinCodes\obj\Debug\net6.0\ref\UniquePinCodes.dll
