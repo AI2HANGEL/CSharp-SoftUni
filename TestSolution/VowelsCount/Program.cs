@@ -5,7 +5,7 @@ static void GetVowelsCount(string line)
 
     for (int position = 0; position <= line.Length - 1; position++)
     {
-        char symbol = line[position];
+        char symbol = Char.ToLower(line[position]);
         switch (symbol)
         {
             case 'a':

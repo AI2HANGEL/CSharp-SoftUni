@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\bin\Debug\net6.0\FactorialDivision.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\bin\Debug\net6.0\FactorialDivision.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\bin\Debug\net6.0\FactorialDivision.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\bin\Debug\net6.0\FactorialDivision.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\bin\Debug\net6.0\FactorialDivision.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\obj\Debug\net6.0\refint\FactorialDivision.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\FactorialDivision\obj\Debug\net6.0\ref\FactorialDivision.dll

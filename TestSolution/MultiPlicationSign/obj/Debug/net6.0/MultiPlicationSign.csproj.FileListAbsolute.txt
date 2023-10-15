@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\bin\Debug\net6.0\MultiPlicationSign.exe
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\bin\Debug\net6.0\MultiPlicationSign.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\bin\Debug\net6.0\MultiPlicationSign.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\bin\Debug\net6.0\MultiPlicationSign.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\bin\Debug\net6.0\MultiPlicationSign.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\obj\Debug\net6.0\MultiPlicationSign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\obj\Debug\net6.0\MultiPlicationSign.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\obj\Debug\net6.0\MultiPlicationSign.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\obj\Debug\net6.0\MultiPlicationSign.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\obj\Debug\net6.0\MultiPlicationSign.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\obj\Debug\net6.0\refint\MultiPlicationSign.dll
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\obj\Debug\net6.0\MultiPlicationSign.pdb
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\obj\Debug\net6.0\MultiPlicationSign.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\TestSolution\MultiPlicationSign\obj\Debug\net6.0\ref\MultiPlicationSign.dll
