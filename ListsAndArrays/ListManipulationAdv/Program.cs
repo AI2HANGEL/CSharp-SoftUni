@@ -1,55 +1,26 @@
 ﻿List<int> numbers = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
 
 string command = Console.ReadLine();
+string evenNumbers = "";
 
 while (command != "end")
 {
     string[] currentCommand = command.Split(" ");
     string action = currentCommand[0];
 
-
     if (action == "Contains")
-
     {
         int value = int.Parse(currentCommand[1]);
-        foreach (int number in numbers)
-        {
-            if (number == value)
-            {
-                Console.WriteLine("Yes");
-                break;
-            }
-            else
-            {
-                Console.WriteLine("No such number");
-                break;
-                
-            }
-        }
+        bool containsValue = numbers.Contains(value);
+        Console.WriteLine(containsValue ? "Yes" : "No such number");
     }
     else if (action == "PrintEven")
     {
-        foreach (int number in numbers)
-        {
-            if (number % 2 == 0)
-            {
-                Console.Write(number + " ");
-                break;
-
-            }
-        }
+        evenNumbers = string.Join(" ", numbers.Where(n => n % 2 == 0));
     }
     else if (action == "PrintOdd")
     {
-        foreach (int number in numbers)
-        {
-            if (number % 2 != 0)
-            {
-                Console.Write(number + " ");
-                break;
-
-            }
-        }
+        Console.WriteLine(string.Join(" ", numbers.Where(n => n % 2 != 0)));
     }
     else if (action == "GetSum")
     {
@@ -72,21 +43,18 @@ while (command != "end")
                         filteredNumbers.Add(number);
                     }
                     break;
-
                 case ">":
                     if (number > value)
                     {
                         filteredNumbers.Add(number);
                     }
                     break;
-
                 case "<=":
                     if (number <= value)
                     {
                         filteredNumbers.Add(number);
                     }
                     break;
-
                 case ">=":
                     if (number >= value)
                     {
@@ -97,12 +65,13 @@ while (command != "end")
         }
 
         numbers = filteredNumbers;
-    } Console.WriteLine(string.Join(" ", numbers));
-
-
-
+    }
 
     command = Console.ReadLine();
 }
-Console.WriteLine();
+
+if (!string.IsNullOrEmpty(evenNumbers))
+{
+    Console.WriteLine(evenNumbers);
+}
 Console.WriteLine(string.Join(" ", numbers));
