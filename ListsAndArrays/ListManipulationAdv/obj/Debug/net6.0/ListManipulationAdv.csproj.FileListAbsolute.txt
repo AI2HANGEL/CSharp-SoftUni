@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\bin\Debug\net6.0\ListManipulationAdv.exe
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\bin\Debug\net6.0\ListManipulationAdv.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\bin\Debug\net6.0\ListManipulationAdv.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\bin\Debug\net6.0\ListManipulationAdv.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\bin\Debug\net6.0\ListManipulationAdv.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\obj\Debug\net6.0\ListManipulationAdv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\obj\Debug\net6.0\ListManipulationAdv.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\obj\Debug\net6.0\ListManipulationAdv.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\obj\Debug\net6.0\ListManipulationAdv.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\obj\Debug\net6.0\ListManipulationAdv.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\obj\Debug\net6.0\refint\ListManipulationAdv.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\obj\Debug\net6.0\ListManipulationAdv.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\obj\Debug\net6.0\ListManipulationAdv.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListManipulationAdv\obj\Debug\net6.0\ref\ListManipulationAdv.dll

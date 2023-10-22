@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\obj\Debug\net6.0\CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\obj\Debug\net6.0\CommonElements.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\obj\Debug\net6.0\CommonElements.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\obj\Debug\net6.0\CommonElements.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\bin\Debug\net6.0\CommonElements.exe
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\bin\Debug\net6.0\CommonElements.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\bin\Debug\net6.0\CommonElements.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\bin\Debug\net6.0\CommonElements.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\bin\Debug\net6.0\CommonElements.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\obj\Debug\net6.0\CommonElements.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\obj\Debug\net6.0\refint\CommonElements.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\obj\Debug\net6.0\CommonElements.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\obj\Debug\net6.0\CommonElements.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\CommonElements\obj\Debug\net6.0\ref\CommonElements.dll

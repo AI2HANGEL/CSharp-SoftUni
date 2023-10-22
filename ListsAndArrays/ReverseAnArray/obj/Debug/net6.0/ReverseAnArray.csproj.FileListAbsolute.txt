@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\bin\Debug\net6.0\ReverseAnArray.exe
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\bin\Debug\net6.0\ReverseAnArray.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\bin\Debug\net6.0\ReverseAnArray.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\bin\Debug\net6.0\ReverseAnArray.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\bin\Debug\net6.0\ReverseAnArray.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\obj\Debug\net6.0\ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\obj\Debug\net6.0\ReverseAnArray.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\obj\Debug\net6.0\ReverseAnArray.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\obj\Debug\net6.0\ReverseAnArray.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\obj\Debug\net6.0\ReverseAnArray.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\obj\Debug\net6.0\refint\ReverseAnArray.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\obj\Debug\net6.0\ReverseAnArray.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\obj\Debug\net6.0\ReverseAnArray.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\ReverseAnArray\obj\Debug\net6.0\ref\ReverseAnArray.dll

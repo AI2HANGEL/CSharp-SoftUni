@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\bin\Debug\net6.0\EvenOddSubstraction.exe
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\bin\Debug\net6.0\EvenOddSubstraction.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\bin\Debug\net6.0\EvenOddSubstraction.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\bin\Debug\net6.0\EvenOddSubstraction.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\bin\Debug\net6.0\EvenOddSubstraction.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\obj\Debug\net6.0\EvenOddSubstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\obj\Debug\net6.0\EvenOddSubstraction.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\obj\Debug\net6.0\EvenOddSubstraction.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\obj\Debug\net6.0\EvenOddSubstraction.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\obj\Debug\net6.0\EvenOddSubstraction.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\obj\Debug\net6.0\refint\EvenOddSubstraction.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\obj\Debug\net6.0\EvenOddSubstraction.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\obj\Debug\net6.0\EvenOddSubstraction.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\EvenOddSubstraction\obj\Debug\net6.0\ref\EvenOddSubstraction.dll

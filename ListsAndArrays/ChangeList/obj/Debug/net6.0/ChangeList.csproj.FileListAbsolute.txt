@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\bin\Debug\net6.0\ChangeList.exe
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\bin\Debug\net6.0\ChangeList.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\bin\Debug\net6.0\ChangeList.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\bin\Debug\net6.0\ChangeList.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\bin\Debug\net6.0\ChangeList.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\obj\Debug\net6.0\ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\obj\Debug\net6.0\ChangeList.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\obj\Debug\net6.0\ChangeList.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\obj\Debug\net6.0\ChangeList.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\obj\Debug\net6.0\ChangeList.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\obj\Debug\net6.0\refint\ChangeList.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\obj\Debug\net6.0\ChangeList.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\obj\Debug\net6.0\ChangeList.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ChangeList\obj\Debug\net6.0\ref\ChangeList.dll

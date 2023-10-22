@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\bin\Debug\net6.0\ListOfProducts.exe
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\bin\Debug\net6.0\ListOfProducts.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\bin\Debug\net6.0\ListOfProducts.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\bin\Debug\net6.0\ListOfProducts.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\bin\Debug\net6.0\ListOfProducts.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\obj\Debug\net6.0\ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\obj\Debug\net6.0\ListOfProducts.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\obj\Debug\net6.0\ListOfProducts.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\obj\Debug\net6.0\ListOfProducts.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\obj\Debug\net6.0\ListOfProducts.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\obj\Debug\net6.0\refint\ListOfProducts.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\obj\Debug\net6.0\ListOfProducts.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\obj\Debug\net6.0\ListOfProducts.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\ListOfProducts\obj\Debug\net6.0\ref\ListOfProducts.dll

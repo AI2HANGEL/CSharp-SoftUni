@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\bin\Debug\net6.0\SumOfArray.exe
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\bin\Debug\net6.0\SumOfArray.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\bin\Debug\net6.0\SumOfArray.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\bin\Debug\net6.0\SumOfArray.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\bin\Debug\net6.0\SumOfArray.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\obj\Debug\net6.0\SumOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\obj\Debug\net6.0\SumOfArray.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\obj\Debug\net6.0\SumOfArray.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\obj\Debug\net6.0\SumOfArray.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\obj\Debug\net6.0\SumOfArray.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\obj\Debug\net6.0\refint\SumOfArray.dll
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\obj\Debug\net6.0\SumOfArray.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\obj\Debug\net6.0\SumOfArray.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Arrays\SumOfArray\obj\Debug\net6.0\ref\SumOfArray.dll
