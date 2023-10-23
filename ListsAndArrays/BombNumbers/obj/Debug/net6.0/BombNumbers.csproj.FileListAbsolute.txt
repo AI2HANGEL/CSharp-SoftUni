@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\bin\Debug\net6.0\BombNumbers.exe
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\bin\Debug\net6.0\BombNumbers.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\bin\Debug\net6.0\BombNumbers.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\bin\Debug\net6.0\BombNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\bin\Debug\net6.0\BombNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\obj\Debug\net6.0\BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\obj\Debug\net6.0\BombNumbers.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\obj\Debug\net6.0\BombNumbers.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\obj\Debug\net6.0\BombNumbers.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\obj\Debug\net6.0\BombNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\obj\Debug\net6.0\refint\BombNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\obj\Debug\net6.0\BombNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\obj\Debug\net6.0\BombNumbers.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\BombNumbers\obj\Debug\net6.0\ref\BombNumbers.dll
