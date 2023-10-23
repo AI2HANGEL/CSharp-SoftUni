@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\bin\Debug\net6.0\GaussTrick.exe
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\bin\Debug\net6.0\GaussTrick.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\bin\Debug\net6.0\GaussTrick.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\bin\Debug\net6.0\GaussTrick.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\bin\Debug\net6.0\GaussTrick.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\obj\Debug\net6.0\GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\obj\Debug\net6.0\GaussTrick.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\obj\Debug\net6.0\GaussTrick.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\obj\Debug\net6.0\GaussTrick.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\obj\Debug\net6.0\GaussTrick.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\obj\Debug\net6.0\refint\GaussTrick.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\obj\Debug\net6.0\GaussTrick.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\obj\Debug\net6.0\GaussTrick.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\GaussTrick\obj\Debug\net6.0\ref\GaussTrick.dll

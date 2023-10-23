@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.exe
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\obj\Debug\net6.0\refint\CondenseArrayToNumber.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CondenseArrayToNumber\obj\Debug\net6.0\ref\CondenseArrayToNumber.dll
