@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\bin\Debug\net6.0\CardsGame.exe
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\bin\Debug\net6.0\CardsGame.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\bin\Debug\net6.0\CardsGame.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\bin\Debug\net6.0\CardsGame.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\bin\Debug\net6.0\CardsGame.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\obj\Debug\net6.0\CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\obj\Debug\net6.0\CardsGame.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\obj\Debug\net6.0\CardsGame.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\obj\Debug\net6.0\CardsGame.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\obj\Debug\net6.0\CardsGame.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\obj\Debug\net6.0\refint\CardsGame.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\obj\Debug\net6.0\CardsGame.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\obj\Debug\net6.0\CardsGame.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\CardsGame\obj\Debug\net6.0\ref\CardsGame.dll
