@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\obj\Debug\net6.0\_MaxSequenceOfEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\obj\Debug\net6.0\_MaxSequenceOfEqualNumbers.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\obj\Debug\net6.0\_MaxSequenceOfEqualNumbers.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\obj\Debug\net6.0\_MaxSequenceOfEqualNumbers.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\bin\Debug\net6.0\_MaxSequenceOfEqualNumbers.exe
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\bin\Debug\net6.0\_MaxSequenceOfEqualNumbers.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\bin\Debug\net6.0\_MaxSequenceOfEqualNumbers.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\bin\Debug\net6.0\_MaxSequenceOfEqualNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\bin\Debug\net6.0\_MaxSequenceOfEqualNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\obj\Debug\net6.0\_MaxSequenceOfEqualNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\obj\Debug\net6.0\refint\_MaxSequenceOfEqualNumbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\obj\Debug\net6.0\_MaxSequenceOfEqualNumbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\obj\Debug\net6.0\_MaxSequenceOfEqualNumbers.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_MaxSequenceOfEqualNumbers\obj\Debug\net6.0\ref\_MaxSequenceOfEqualNumbers.dll

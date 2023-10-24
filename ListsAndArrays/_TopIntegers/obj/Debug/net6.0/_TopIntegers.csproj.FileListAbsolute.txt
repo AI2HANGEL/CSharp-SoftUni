@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\bin\Debug\net6.0\_TopIntegers.exe
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\bin\Debug\net6.0\_TopIntegers.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\bin\Debug\net6.0\_TopIntegers.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\bin\Debug\net6.0\_TopIntegers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\bin\Debug\net6.0\_TopIntegers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\obj\Debug\net6.0\_TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\obj\Debug\net6.0\_TopIntegers.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\obj\Debug\net6.0\_TopIntegers.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\obj\Debug\net6.0\_TopIntegers.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\obj\Debug\net6.0\_TopIntegers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\obj\Debug\net6.0\refint\_TopIntegers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\obj\Debug\net6.0\_TopIntegers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\obj\Debug\net6.0\_TopIntegers.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ListsAndArrays\_TopIntegers\obj\Debug\net6.0\ref\_TopIntegers.dll

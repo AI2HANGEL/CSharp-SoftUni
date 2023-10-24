@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\ListsAndArrays\\CardsGame\\_CardsGame.csproj",
-      "projectName": "_CardsGame",
-      "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\ListsAndArrays\\CardsGame\\_CardsGame.csproj",
+      "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\ListsAndArrays\\_MaxSequenceOfEqualNumbers\\_MaxSequenceOfEqualNumbers.csproj",
+      "projectName": "_MaxSequenceOfEqualNumbers",
+      "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\ListsAndArrays\\_MaxSequenceOfEqualNumbers\\_MaxSequenceOfEqualNumbers.csproj",
       "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-      "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\ListsAndArrays\\CardsGame\\obj\\",
+      "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\ListsAndArrays\\_MaxSequenceOfEqualNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",
