@@ -1,6 +1,4 @@
-﻿List<int> numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
-
-static List<int> FindTopIntegers(List<int> numbers)
+﻿static List<int> FindTopIntegers(List<int> numbers)
 {
     List<int> topIntegers = new List<int>();
     int maxRight = int.MinValue;
@@ -18,6 +16,6 @@ static List<int> FindTopIntegers(List<int> numbers)
     return topIntegers;
 }
 
-List<int> topIntegers = FindTopIntegers(numbers);
+List<int> numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
 
-Console.WriteLine(string.Join(" ", topIntegers));
+Console.WriteLine(string.Join(" ", FindTopIntegers(numbers)));
