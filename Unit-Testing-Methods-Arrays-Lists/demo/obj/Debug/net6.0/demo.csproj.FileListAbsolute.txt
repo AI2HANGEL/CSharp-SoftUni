@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\bin\Debug\net6.0\demo.exe
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\bin\Debug\net6.0\demo.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\bin\Debug\net6.0\demo.dll
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\bin\Debug\net6.0\demo.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\obj\Debug\net6.0\demo.dll
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\obj\Debug\net6.0\refint\demo.dll
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\obj\Debug\net6.0\demo.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Unit-Testing-Methods-Arrays-Lists\demo\obj\Debug\net6.0\ref\demo.dll
