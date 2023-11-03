@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.exe
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\obj\Debug\net6.0\refint\01. Magic Numbers.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. Magic Numbers\obj\Debug\net6.0\ref\01. Magic Numbers.dll

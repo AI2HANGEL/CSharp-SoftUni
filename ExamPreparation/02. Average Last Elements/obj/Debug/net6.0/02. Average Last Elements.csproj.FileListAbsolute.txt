@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.exe
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\obj\Debug\net6.0\refint\02. Average Last Elements.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Average Last Elements\obj\Debug\net6.0\ref\02. Average Last Elements.dll

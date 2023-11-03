@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\bin\Debug\net6.0\02. Min and Max Values.exe
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\bin\Debug\net6.0\02. Min and Max Values.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\bin\Debug\net6.0\02. Min and Max Values.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\bin\Debug\net6.0\02. Min and Max Values.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\bin\Debug\net6.0\02. Min and Max Values.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\obj\Debug\net6.0\02. Min and Max Values.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\obj\Debug\net6.0\02. Min and Max Values.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\obj\Debug\net6.0\02. Min and Max Values.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\obj\Debug\net6.0\02. Min and Max Values.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\obj\Debug\net6.0\02. Min and Max Values.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\obj\Debug\net6.0\refint\02. Min and Max Values.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\obj\Debug\net6.0\02. Min and Max Values.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\obj\Debug\net6.0\02. Min and Max Values.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\02. Min and Max Values\obj\Debug\net6.0\ref\02. Min and Max Values.dll

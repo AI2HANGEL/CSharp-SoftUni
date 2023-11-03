@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.exe
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\obj\Debug\net6.0\refint\01. English Name of Each Digit.dll
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.pdb
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\ExamPreparation\01. English Name of Each Digit\obj\Debug\net6.0\ref\01. English Name of Each Digit.dll
