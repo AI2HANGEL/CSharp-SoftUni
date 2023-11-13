@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\bin\Debug\net6.0\TextFilter.exe
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\bin\Debug\net6.0\TextFilter.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\bin\Debug\net6.0\TextFilter.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\bin\Debug\net6.0\TextFilter.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\bin\Debug\net6.0\TextFilter.pdb
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\obj\Debug\net6.0\TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\obj\Debug\net6.0\TextFilter.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\obj\Debug\net6.0\TextFilter.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\obj\Debug\net6.0\TextFilter.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\obj\Debug\net6.0\TextFilter.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\obj\Debug\net6.0\refint\TextFilter.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\obj\Debug\net6.0\TextFilter.pdb
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\obj\Debug\net6.0\TextFilter.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\TextFilter\obj\Debug\net6.0\ref\TextFilter.dll

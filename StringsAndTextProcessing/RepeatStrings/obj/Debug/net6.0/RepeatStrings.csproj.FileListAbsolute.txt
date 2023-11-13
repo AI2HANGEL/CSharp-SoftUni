@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\bin\Debug\net6.0\RepeatStrings.exe
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\bin\Debug\net6.0\RepeatStrings.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\bin\Debug\net6.0\RepeatStrings.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\bin\Debug\net6.0\RepeatStrings.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\bin\Debug\net6.0\RepeatStrings.pdb
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\obj\Debug\net6.0\RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\obj\Debug\net6.0\RepeatStrings.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\obj\Debug\net6.0\RepeatStrings.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\obj\Debug\net6.0\RepeatStrings.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\obj\Debug\net6.0\RepeatStrings.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\obj\Debug\net6.0\refint\RepeatStrings.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\obj\Debug\net6.0\RepeatStrings.pdb
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\obj\Debug\net6.0\RepeatStrings.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\RepeatStrings\obj\Debug\net6.0\ref\RepeatStrings.dll

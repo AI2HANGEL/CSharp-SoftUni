@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\bin\Debug\net6.0\ReverseString.exe
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\bin\Debug\net6.0\ReverseString.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\bin\Debug\net6.0\ReverseString.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\bin\Debug\net6.0\ReverseString.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\bin\Debug\net6.0\ReverseString.pdb
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\obj\Debug\net6.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\obj\Debug\net6.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\obj\Debug\net6.0\ReverseString.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\obj\Debug\net6.0\refint\ReverseString.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\obj\Debug\net6.0\ReverseString.pdb
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\obj\Debug\net6.0\ReverseString.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\ReverseString\obj\Debug\net6.0\ref\ReverseString.dll

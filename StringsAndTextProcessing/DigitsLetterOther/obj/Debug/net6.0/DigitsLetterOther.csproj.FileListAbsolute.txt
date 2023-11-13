@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\bin\Debug\net6.0\DigitsLetterOther.exe
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\bin\Debug\net6.0\DigitsLetterOther.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\bin\Debug\net6.0\DigitsLetterOther.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\bin\Debug\net6.0\DigitsLetterOther.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\bin\Debug\net6.0\DigitsLetterOther.pdb
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\obj\Debug\net6.0\DigitsLetterOther.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\obj\Debug\net6.0\DigitsLetterOther.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\obj\Debug\net6.0\DigitsLetterOther.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\obj\Debug\net6.0\DigitsLetterOther.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\obj\Debug\net6.0\DigitsLetterOther.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\obj\Debug\net6.0\refint\DigitsLetterOther.dll
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\obj\Debug\net6.0\DigitsLetterOther.pdb
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\obj\Debug\net6.0\DigitsLetterOther.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\StringsAndTextProcessing\DigitsLetterOther\obj\Debug\net6.0\ref\DigitsLetterOther.dll
