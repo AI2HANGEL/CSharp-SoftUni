@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\bin\Debug\net6.0\Match Phone Number.exe
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\bin\Debug\net6.0\Match Phone Number.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\bin\Debug\net6.0\Match Phone Number.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\bin\Debug\net6.0\Match Phone Number.dll
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\bin\Debug\net6.0\Match Phone Number.pdb
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\obj\Debug\net6.0\Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\obj\Debug\net6.0\Match Phone Number.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\obj\Debug\net6.0\Match Phone Number.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\obj\Debug\net6.0\Match Phone Number.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\obj\Debug\net6.0\Match Phone Number.dll
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\obj\Debug\net6.0\refint\Match Phone Number.dll
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\obj\Debug\net6.0\Match Phone Number.pdb
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\obj\Debug\net6.0\Match Phone Number.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\RegEx\Match Phone Number\obj\Debug\net6.0\ref\Match Phone Number.dll
