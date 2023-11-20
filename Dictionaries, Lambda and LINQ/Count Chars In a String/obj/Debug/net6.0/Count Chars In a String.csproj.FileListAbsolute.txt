@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\bin\Debug\net6.0\Count Chars In a String.exe
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\bin\Debug\net6.0\Count Chars In a String.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\bin\Debug\net6.0\Count Chars In a String.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\bin\Debug\net6.0\Count Chars In a String.dll
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\bin\Debug\net6.0\Count Chars In a String.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\obj\Debug\net6.0\Count Chars In a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\obj\Debug\net6.0\Count Chars In a String.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\obj\Debug\net6.0\Count Chars In a String.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\obj\Debug\net6.0\Count Chars In a String.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\obj\Debug\net6.0\Count Chars In a String.dll
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\obj\Debug\net6.0\refint\Count Chars In a String.dll
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\obj\Debug\net6.0\Count Chars In a String.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\obj\Debug\net6.0\Count Chars In a String.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Count Chars In a String\obj\Debug\net6.0\ref\Count Chars In a String.dll

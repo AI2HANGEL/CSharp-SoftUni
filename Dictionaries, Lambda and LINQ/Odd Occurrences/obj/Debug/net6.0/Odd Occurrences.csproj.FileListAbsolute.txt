@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.exe
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.dll
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.dll
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\net6.0\refint\Odd Occurrences.dll
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\net6.0\ref\Odd Occurrences.dll

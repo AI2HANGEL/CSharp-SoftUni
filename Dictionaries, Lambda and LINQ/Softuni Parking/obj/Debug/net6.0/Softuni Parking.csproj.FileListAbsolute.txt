@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\bin\Debug\net6.0\Softuni Parking.exe
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\bin\Debug\net6.0\Softuni Parking.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\bin\Debug\net6.0\Softuni Parking.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\bin\Debug\net6.0\Softuni Parking.dll
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\bin\Debug\net6.0\Softuni Parking.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\obj\Debug\net6.0\Softuni Parking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\obj\Debug\net6.0\Softuni Parking.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\obj\Debug\net6.0\Softuni Parking.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\obj\Debug\net6.0\Softuni Parking.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\obj\Debug\net6.0\Softuni Parking.dll
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\obj\Debug\net6.0\refint\Softuni Parking.dll
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\obj\Debug\net6.0\Softuni Parking.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\obj\Debug\net6.0\Softuni Parking.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Dictionaries, Lambda and LINQ\Softuni Parking\obj\Debug\net6.0\ref\Softuni Parking.dll
