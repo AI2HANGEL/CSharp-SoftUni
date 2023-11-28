@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1LoTZkA+ASfnkTrLJEMAff5ua9om5V9QQpUhqFUqE/5HR73Zc3woTjX+yvM/y+NEDh5Dq3UXuu9KgGa0YEyXrQ==",
+  "dgSpecHash": "/gLFcpHjqkIV/N+GmM7rMJkYZtPq//mva34vk7Y4vasutIqHwssGqYllJJNqpPTbXZcVL1etNdqA/kOLyRX0FQ==",
   "success": true,
-  "projectFilePath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp\\TestApp.csproj",
+  "projectFilePath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp\\TestApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

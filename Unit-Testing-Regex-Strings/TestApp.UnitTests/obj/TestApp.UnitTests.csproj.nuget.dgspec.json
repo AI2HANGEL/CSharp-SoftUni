@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {}
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {}
   },
   "projects": {
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
         "projectName": "TestApp.UnitTests",
-        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp.UnitTests\\obj\\",
+        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp\\TestApp.csproj": {
-                "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp\\TestApp.csproj"
+              "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp\\TestApp.csproj": {
+                "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp\\TestApp.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp\\TestApp.csproj": {
+    "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp\\TestApp.csproj",
+        "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp\\TestApp.csproj",
         "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
-        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp\\obj\\",
+        "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Prandzhev\\AppData\\Roaming\\NuGet\\NuGet.Config",

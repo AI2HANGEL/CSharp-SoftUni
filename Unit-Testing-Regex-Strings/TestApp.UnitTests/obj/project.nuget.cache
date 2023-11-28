@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B85Hn/Z1yPkGforgvg/yZYQ3VZB1qTMhJda8UJ/7HmJueF0JwvbrncMFJ0Fa6rk1B1dXpO3eduRM+S5GkhGyEA==",
+  "dgSpecHash": "Hx/BqvNUHdNZQCVWy4HkoNI5JV9JEqeIdNcd34d5T0b2uavT+UysnZt/hb3jAmIaurl4VqmSwBoOojbLKzgdcg==",
   "success": true,
-  "projectFilePath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+  "projectFilePath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Unit-Testing-Regex-Strings\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
