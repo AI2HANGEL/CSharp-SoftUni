@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\Dictionaries, Lambda and LINQ\\Cpmpany Users\\Cpmpany Users.csproj",
-      "projectName": "Cpmpany Users",
-      "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Dictionaries, Lambda and LINQ\\Cpmpany Users\\Cpmpany Users.csproj",
+      "projectUniqueName": "D:\\Rep_Softuni\\CSharp-SoftUni\\Dictionaries, Lambda and LINQ\\Cpmpany Users\\Company Users.csproj",
+      "projectName": "Company Users",
+      "projectPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Dictionaries, Lambda and LINQ\\Cpmpany Users\\Company Users.csproj",
       "packagesPath": "C:\\Users\\Daniel Prandzhev\\.nuget\\packages\\",
       "outputPath": "D:\\Rep_Softuni\\CSharp-SoftUni\\Dictionaries, Lambda and LINQ\\Cpmpany Users\\obj\\",
       "projectStyle": "PackageReference",
