@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\obj\Debug\net6.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\obj\Debug\net6.0\Songs.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\obj\Debug\net6.0\Songs.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\obj\Debug\net6.0\Songs.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\bin\Debug\net6.0\Songs.exe
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\bin\Debug\net6.0\Songs.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\bin\Debug\net6.0\Songs.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\bin\Debug\net6.0\Songs.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\bin\Debug\net6.0\Songs.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\obj\Debug\net6.0\Songs.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\obj\Debug\net6.0\refint\Songs.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\obj\Debug\net6.0\Songs.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\obj\Debug\net6.0\Songs.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Songs\obj\Debug\net6.0\ref\Songs.dll

@@ -9,7 +9,14 @@ public class PlantsTests
     [Test]
     public void Test_GetFastestGrowing_WithEmptyArray_ShouldReturnEmptyString()
     {
-        // TODO: finish test
+        // Arrange
+        string[] plants = Array.Empty<string>();
+
+        // Act
+        string result = Plants.GetFastestGrowing(plants);
+
+        // Assert
+        Assert.That(result, Is.Empty);
     }
 
     // TODO: finish test
@@ -17,22 +24,45 @@ public class PlantsTests
     public void Test_GetFastestGrowing_WithSinglePlant_ShouldReturnPlant()
     {
         // Arrange
+        string[] plants = new string[] { "roza" };
 
         // Act
-        //string result = Plants.GetFastestGrowing(plants);
+        string result = Plants.GetFastestGrowing(plants);
 
         // Assert
+        Assert.That(result, Is.EqualTo($"Plants with 4 letters:{Environment.NewLine}roza"));
     }
 
     [Test]
     public void Test_GetFastestGrowing_WithMultiplePlants_ShouldReturnGroupedPlants()
     {
-        // TODO: finish test
+        // Arrange
+        string[] plants = new string[] { "roza", "lalence" };
+
+        // Act
+        string result = Plants.GetFastestGrowing(plants);
+
+        // Assert
+        Assert.That(result, Is.EqualTo($"Plants with 4 letters:{Environment.NewLine}" +
+            $"roza{Environment.NewLine}" +
+            $"Plants with 7 letters:{Environment.NewLine}" +
+            $"lalence"));
     }
 
     [Test]
     public void Test_GetFastestGrowing_WithMixedCasePlants_ShouldBeCaseInsensitive()
     {
-        // TODO: finish test
+        // Arrange
+        string[] plants = new string[] { "roZa", "lalEncE" };
+
+        // Act
+        string result = Plants.GetFastestGrowing(plants);
+
+        // Assert
+        Assert.That(result, Is.EqualTo($"Plants with 4 letters:{Environment.NewLine}" +
+            $"roZa{Environment.NewLine}" +
+            $"Plants with 7 letters:{Environment.NewLine}" +
+            $"lalEncE"));
     }
+
 }
