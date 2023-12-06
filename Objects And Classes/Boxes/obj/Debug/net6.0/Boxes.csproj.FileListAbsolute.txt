@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\bin\Debug\net6.0\Boxes.exe
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\bin\Debug\net6.0\Boxes.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\bin\Debug\net6.0\Boxes.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\bin\Debug\net6.0\Boxes.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\bin\Debug\net6.0\Boxes.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\obj\Debug\net6.0\Boxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\obj\Debug\net6.0\Boxes.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\obj\Debug\net6.0\Boxes.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\obj\Debug\net6.0\Boxes.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\obj\Debug\net6.0\Boxes.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\obj\Debug\net6.0\refint\Boxes.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\obj\Debug\net6.0\Boxes.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\obj\Debug\net6.0\Boxes.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Boxes\obj\Debug\net6.0\ref\Boxes.dll

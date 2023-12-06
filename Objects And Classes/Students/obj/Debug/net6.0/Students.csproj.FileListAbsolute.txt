@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\bin\Debug\net6.0\Students.exe
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\bin\Debug\net6.0\Students.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\bin\Debug\net6.0\Students.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\bin\Debug\net6.0\Students.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\bin\Debug\net6.0\Students.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\obj\Debug\net6.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\obj\Debug\net6.0\Students.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\obj\Debug\net6.0\Students.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\obj\Debug\net6.0\Students.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\obj\Debug\net6.0\Students.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\obj\Debug\net6.0\refint\Students.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\obj\Debug\net6.0\Students.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\obj\Debug\net6.0\Students.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Students\obj\Debug\net6.0\ref\Students.dll
