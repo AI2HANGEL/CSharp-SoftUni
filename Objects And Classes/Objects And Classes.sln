@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Songs", "Songs\Songs.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students", "Students\Students.csproj", "{94C2A4EB-0C4A-46EF-AE74-BE30DD0BEDA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxes", "Boxes\Boxes.csproj", "{EA16C741-9547-49D0-82C9-182DCAB5CC3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boxes", "Boxes\Boxes.csproj", "{EA16C741-9547-49D0-82C9-182DCAB5CC3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle Catalogue", "Vehicle Catalogue\Vehicle Catalogue.csproj", "{82FBC43B-F9A2-4883-B40B-0466CA3434C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicle Catalogue", "Vehicle Catalogue\Vehicle Catalogue.csproj", "{82FBC43B-F9A2-4883-B40B-0466CA3434C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

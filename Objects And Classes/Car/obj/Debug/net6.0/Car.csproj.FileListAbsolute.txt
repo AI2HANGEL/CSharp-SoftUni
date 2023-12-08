@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\bin\Debug\net6.0\Car.exe
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\bin\Debug\net6.0\Car.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\bin\Debug\net6.0\Car.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\bin\Debug\net6.0\Car.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\bin\Debug\net6.0\Car.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\obj\Debug\net6.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\obj\Debug\net6.0\Car.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\obj\Debug\net6.0\Car.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\obj\Debug\net6.0\Car.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\obj\Debug\net6.0\Car.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\obj\Debug\net6.0\refint\Car.dll
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\obj\Debug\net6.0\Car.pdb
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\obj\Debug\net6.0\Car.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\Objects And Classes\Car\obj\Debug\net6.0\ref\Car.dll
