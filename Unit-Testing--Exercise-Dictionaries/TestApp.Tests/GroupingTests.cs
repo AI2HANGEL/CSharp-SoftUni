@@ -1,76 +1,87 @@
 ﻿using NUnit.Framework;
-
-using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace TestApp.Tests;
 
 public class GroupingTests
 {
-    // TODO: finish test
     [Test]
     public void Test_GroupNumbers_WithEmptyList_ShouldReturnEmptyString()
     {
         // Arrange
-        List<int> emptyList = new List<int>();
+        List<int> input = new();
 
         // Act
-        string result = Grouping.GroupNumbers(emptyList);
+        var result = Grouping.GroupNumbers(input);
 
         // Assert
-        Assert.That(result, Is.EqualTo(string.Empty));
+        Assert.That(result, Is.Empty);
     }
 
     [Test]
     public void Test_GroupNumbers_WithEvenAndOddNumbers_ShouldReturnGroupedString()
     {
         // Arrange
-        List<int> evenOddNumbersList = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        List<int> input = new() { 4, 2, 30, 5, 1, 17 };
+
+        var sb = new StringBuilder();
+        sb.AppendLine("Even numbers: 4, 2, 30");
+        sb.AppendLine("Odd numbers: 5, 1, 17");
+
+        var expected = sb.ToString().Trim();
 
         // Act
-        string result = Grouping.GroupNumbers(evenOddNumbersList);
+        var result = Grouping.GroupNumbers(input);
 
         // Assert
-        Assert.That(result, Is.EqualTo("Odd numbers: 1, 3, 5, 7, 9\r\nEven numbers: 2, 4, 6, 8, 10"));
-
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
     public void Test_GroupNumbers_WithOnlyEvenNumbers_ShouldReturnGroupedString()
     {
         // Arrange
-        List<int> onlyEvenNumbersList = new List<int> { 2, 4, 6, 8, 10 };
+        List<int> input = new() { 4, 2, 16 };
+        var expected = "Even numbers: 4, 2, 16";
 
         // Act
-        string result = Grouping.GroupNumbers(onlyEvenNumbersList);
+        var result = Grouping.GroupNumbers(input);
 
         // Assert
-        Assert.That(result, Is.EqualTo("Even numbers: 2, 4, 6, 8, 10"));
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
     public void Test_GroupNumbers_WithOnlyOddNumbers_ShouldReturnGroupedString()
     {
         // Arrange
-        List<int> onlyOddNumbersList = new List<int> { 1, 3, 5, 7, 9 };
+        List<int> input = new() { 1, 23, 165 };
+        var expected = "Odd numbers: 1, 23, 165";
 
         // Act
-        string result = Grouping.GroupNumbers(onlyOddNumbersList);
+        var result = Grouping.GroupNumbers(input);
 
         // Assert
-        Assert.That(result, Is.EqualTo("Odd numbers: 1, 3, 5, 7, 9"));
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
     public void Test_GroupNumbers_WithNegativeNumbers_ShouldReturnGroupedString()
     {
         // Arrange
-        List<int> negativeNumbersList = new List<int> { -2, -4, -6, -8, -10 };
+        List<int> input = new() { -1, -1, -4, -2, -3, -5 };
+
+        var sb = new StringBuilder();
+        sb.AppendLine("Odd numbers: -1, -1, -3, -5");
+        sb.AppendLine("Even numbers: -4, -2");
+
+        var expected = sb.ToString().Trim();
 
         // Act
-        string result = Grouping.GroupNumbers(negativeNumbersList);
+        var result = Grouping.GroupNumbers(input);
 
         // Assert
-        Assert.That(result, Is.EqualTo("Even numbers: -2, -4, -6, -8, -10"));
+        Assert.That(result, Is.EqualTo(expected));
     }
 }
