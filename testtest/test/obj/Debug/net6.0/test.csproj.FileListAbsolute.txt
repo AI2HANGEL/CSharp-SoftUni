@@ -1,0 +1,14 @@
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\bin\Debug\net6.0\test.exe
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\bin\Debug\net6.0\test.deps.json
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\bin\Debug\net6.0\test.runtimeconfig.json
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\bin\Debug\net6.0\test.dll
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\bin\Debug\net6.0\test.pdb
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\obj\Debug\net6.0\test.dll
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\obj\Debug\net6.0\refint\test.dll
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\obj\Debug\net6.0\test.pdb
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+D:\Rep_Softuni\CSharp-SoftUni\testtest\test\obj\Debug\net6.0\ref\test.dll
