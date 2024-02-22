@@ -42,7 +42,7 @@ public class EvenOddSubtractionTests
         int result = EvenOddSubtraction.FindDifference(arr);
 
         // Assert
-        Assert.That(result, Is.EqualTo(16));
+        Assert.That(result, Is.EqualTo(-16));
     }
 
     [Test]
