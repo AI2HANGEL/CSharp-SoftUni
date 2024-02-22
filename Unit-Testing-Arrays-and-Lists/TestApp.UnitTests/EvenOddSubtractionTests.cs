@@ -37,7 +37,7 @@ public class EvenOddSubtractionTests
     public void Test_FindDifference_InputHasOnlyOddNumbers_ShouldReturnNegativeOddSum()
     {
         // Arrange
-        int[] arr = new int[] { 1 ,3 , 5, 7 };
+        int[] arr = new int[] { 1, 3, 5, 7 };
         // Act
         int result = EvenOddSubtraction.FindDifference(arr);
 
